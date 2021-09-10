@@ -1,0 +1,778 @@
+#,SO Number,Document Internal ID,Posting Date,Execution Date,Customer Name,ItemName,Pending Qty,Unit Amt,Total Amt,Pending Days,Status,Sales Employee Name,SO Pending,Order Branch Name,Aging Range
+1,6004,89728,07/20/2019,07/20/2019,MAHINDRA & MAHINDRA LIMITED,Installation Charges,1,20000,20000,688,,Pankaj,Other Reason,Mumbai,>15  Days
+2,8761,92651,09/06/2019,07/31/2021,VOLTEK ENGINEERING,LIEBERT 5 KVA LXI UPS,1,330000,330000,640,SO Pending for Material not -LIEBERT 5 KVA LXI UPSavailable - PO NO - 4365,Amar chavan,SO Pending for Material not available,Mumbai,>15  Days
+3,15140,99377,12/27/2019,06/30/2021,BALL BEVERAGE PACKING (INDIA) PVT LTD,Repair & Service Charges,1,10169,10169,528,THERMOGRAPHY PERIOD JUNE,Prashant Mohite,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+4,15140,99377,12/27/2019,06/30/2021,BALL BEVERAGE PACKING (INDIA) PVT LTD,Repair & Service Charges,1,10169,10169,528,THERMOGRAPHY PERIOD JUNE,Prashant Mohite,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+5,15140,99377,12/27/2019,06/30/2021,BALL BEVERAGE PACKING (INDIA) PVT LTD,Repair & Service Charges,1,10169,10169,528,THERMOGRAPHY PERIOD JUNE,Prashant Mohite,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+6,15140,99377,12/27/2019,06/30/2021,BALL BEVERAGE PACKING (INDIA) PVT LTD,Repair & Service Charges,1,10169,10169,528,THERMOGRAPHY PERIOD JUNE,Prashant Mohite,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+7,15140,99377,12/27/2019,06/30/2021,BALL BEVERAGE PACKING (INDIA) PVT LTD,Repair & Service Charges,1,10169,10169,528,THERMOGRAPHY PERIOD JUNE,Prashant Mohite,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+8,16022,100333,01/13/2020,05/31/2021,GENERAL MILLS INDIA PRIVATE LIMITED,Non Comprehensive AMC,1,388,388,511,Next billing will be in june month,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+9,16022,100333,01/13/2020,05/31/2021,GENERAL MILLS INDIA PRIVATE LIMITED,Non Comprehensive AMC,1,396,396,511,Next billing will be in june month,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+10,16037,100348,01/13/2020,05/31/2021,GENERAL MILLS INDIA PRIVATE LIMITED,Non Comprehensive AMC,1,2198,2198,511,Next billing march month,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+11,16037,100348,01/13/2020,05/31/2021,GENERAL MILLS INDIA PRIVATE LIMITED,Non Comprehensive AMC,1,2247,2247,511,Next billing march month,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+12,18627,103107,02/25/2020,07/31/2021,SCRABBLE DIGITAL LTD,Comprehensive AMC,1,9500,9500,468,SO Pending for AMC Renewal,Sunny Kothmire,SO Pending for AMC Renewal,Mumbai,>15  Days
+13,18627,103107,02/25/2020,07/31/2021,SCRABBLE DIGITAL LTD,Comprehensive AMC,1,9500,9500,468,SO Pending for AMC Renewal,Sunny Kothmire,SO Pending for AMC Renewal,Mumbai,>15  Days
+14,1546,106778,06/10/2020,04/01/2021,GOLDENSOURCE INTERNATIONAL PVT LTD,Rental charges,2,114000,228000,362,Billing each line item after every 6months 5years rental project.,Rajiv Nambiar,SO Pending for Rental Renewal,Mumbai,>15  Days
+15,1546,106778,06/10/2020,04/01/2021,GOLDENSOURCE INTERNATIONAL PVT LTD,Rental charges,2,114000,228000,362,Billing each line item after every 6months 5years rental project.,Rajiv Nambiar,SO Pending for Rental Renewal,Mumbai,>15  Days
+16,1546,106778,06/10/2020,04/01/2021,GOLDENSOURCE INTERNATIONAL PVT LTD,Rental charges,2,114000,228000,362,Billing each line item after every 6months 5years rental project.,Rajiv Nambiar,SO Pending for Rental Renewal,Mumbai,>15  Days
+17,1546,106778,06/10/2020,04/01/2021,GOLDENSOURCE INTERNATIONAL PVT LTD,Rental charges,2,114000,228000,362,Billing each line item after every 6months 5years rental project.,Rajiv Nambiar,SO Pending for Rental Renewal,Mumbai,>15  Days
+18,1546,106778,06/10/2020,04/01/2021,GOLDENSOURCE INTERNATIONAL PVT LTD,Rental charges,2,114000,228000,362,Billing each line item after every 6months 5years rental project.,Rajiv Nambiar,SO Pending for Rental Renewal,Mumbai,>15  Days
+19,1546,106778,06/10/2020,04/01/2021,GOLDENSOURCE INTERNATIONAL PVT LTD,Rental charges,2,114000,228000,362,Billing each line item after every 6months 5years rental project.,Rajiv Nambiar,SO Pending for Rental Renewal,Mumbai,>15  Days
+20,1546,106778,06/10/2020,04/01/2021,GOLDENSOURCE INTERNATIONAL PVT LTD,Rental charges,2,114000,228000,362,Billing each line item after every 6months 5years rental project.,Rajiv Nambiar,SO Pending for Rental Renewal,Mumbai,>15  Days
+21,4090,109467,08/03/2020,05/31/2021,AVYOM TECHSYSTEMS PVT LTD,LED Proxima – R-15 W- Cool White Round - CDR-205-15-57-SL-NWH - CROMP,104,589,61256,308,Material Pending from Vendor - Expected Dt. 15.09.2020,AJITH KHEDEKAR,SO Pending for Material not available,Mumbai,>15  Days
+22,4090,109467,08/03/2020,05/31/2021,AVYOM TECHSYSTEMS PVT LTD,LED Proxima – R- 15W Natural White Round - CDR-205-15-40-SL-NWH - CROMP,141,589,83049,308,Material Pending from Vendor - Expected Dt. 15.09.2020,AJITH KHEDEKAR,SO Pending for Material not available,Mumbai,>15  Days
+23,4090,109467,08/03/2020,05/31/2021,AVYOM TECHSYSTEMS PVT LTD,LED Fame Spot 24 W Natural White - CDR-213-24-40-SL-NWH - CROMP,4,945,3780,308,Material Pending from Vendor - Expected Dt. 15.09.2020,AJITH KHEDEKAR,SO Pending for Material not available,Mumbai,>15  Days
+24,4090,109467,08/03/2020,05/31/2021,AVYOM TECHSYSTEMS PVT LTD,LED Trimline- 20 W Batten Natural White - LDL-20-NW - CROMP,2,250,500,308,Material Pending from Vendor - Expected Dt. 15.09.2020,AJITH KHEDEKAR,SO Pending for Material not available,Mumbai,>15  Days
+25,4090,109467,08/03/2020,05/31/2021,AVYOM TECHSYSTEMS PVT LTD,LED Trend I Linaer- 72 W Natural White - LCLP54-72-TL - CROMP,1,5088,5088,308,Material Pending from Vendor - Expected Dt. 15.09.2020,AJITH KHEDEKAR,SO Pending for Material not available,Mumbai,>15  Days
+26,4576,109971,08/14/2020,06/30/2021,AVYOM TECHSYSTEMS PVT LTD,LED LAMP - SVL250E - CROMP,11,215.73,37321.29,297,Material Pending from Vendor - Expected Dt.31ST DEC,AJITH KHEDEKAR,SO Pending for Material not available,Mumbai,>15  Days
+27,4576,109971,08/14/2020,06/30/2021,AVYOM TECHSYSTEMS PVT LTD,LED LAMP - MVL125ES - CROMP,64,86.1,5510.4,297,Material Pending from Vendor - Expected Dt.31ST DEC,AJITH KHEDEKAR,SO Pending for Material not available,Mumbai,>15  Days
+28,4748,110150,08/18/2020,04/01/2021,SERVIONT GLOBAL SOLUTIONS PVT. LTD.,Comprehensive AMC,1,9500,9500,293,next billing of 01/04/21,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+29,5190,110632,08/27/2020,05/30/2021,BHARUCHA & PARTNERS,Rail Kit for Liebert ITA 06/10/20 kVA,1,7590,7590,284,RAIL KIT NOT AVAILABLE Still material not received from vertiv.,Asmita,SO Pending for Material not available,Mumbai,>15  Days
+30,6894,112416,09/25/2020,04/01/2021,SPECTRUM PHARMATECH CONSULTANTS PVT. LTD.,Installation Charges,6,81667,490002,255,SO PENDING FOR SERVICE,Niraj Shah,Service pending,Mumbai,>15  Days
+31,6897,112419,09/25/2020,03/01/2021,GODREJ TYSON FOODS LIMITED,PM Charges,1,7000,7000,255,next billing on 01/03/21,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+32,7392,112944,10/05/2020,05/31/2021,AVYOM TECHSYSTEMS PVT LTD,LED FLAME PROOF EXTN1LT8-16/20 - CROMP,7,4475,111875,245,MATERIAL NOT AVAILABLE,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+33,7392,112944,10/05/2020,05/31/2021,AVYOM TECHSYSTEMS PVT LTD,LED TUBELIGHT RETROFIT 18W T8  PC - CW - LT8-20PRO-865-2 - CROMP,7,222,5550,245,MATERIAL NOT AVAILABLE,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+34,7484,113040,10/06/2020,06/30/2021,AVYOM TECHSYSTEMS PVT LTD,LED HIGHBAY LIGHT 80W - CW - LHB11-80-CDL/60-M - CROMP,65,3115,202475,244,SO PENDNG FOR MATERIAL NOT AVAILABLE,Niraj Shah,SO Pending for Partial Material Avaialbility,Mumbai,>15  Days
+35,7874,113458,10/14/2020,12/02/2021,JUBILANT LIFE SCIENCES LIMITED,Installation Charges,1,12000,12000,236,2ND LINE ITEM INSTALLATIN PENDING,Asmita,SO Pending for Service Call/ Service Charges,Mumbai,>15  Days
+36,8330,113955,10/22/2020,08/31/2021,EMERSON ELECTRIC CO. (INDIA) PVT. LTD.,Comprehensive AMC,1,7500,7500,228,QUARTLY BILLING,Mangesh Sangar,SO Pending for Service Call/ Service Charges,Mumbai,>15  Days
+37,8335,113961,10/22/2020,08/31/2021,HI-FAB ENGINEER PVT LTD,Comprehensive AMC,1,1000,1000,228,QUARTLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Mumbai,>15  Days
+38,8335,113961,10/22/2020,08/31/2021,HI-FAB ENGINEER PVT LTD,Comprehensive AMC,1,1875,1875,228,QUARTLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Mumbai,>15  Days
+39,8335,113961,10/22/2020,08/31/2021,HI-FAB ENGINEER PVT LTD,Comprehensive AMC,2,4375,8750,228,QUARTLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Mumbai,>15  Days
+40,8335,113961,10/22/2020,08/31/2021,HI-FAB ENGINEER PVT LTD,Comprehensive AMC,1,1000,1000,228,QUARTLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Mumbai,>15  Days
+41,8335,113961,10/22/2020,08/31/2021,HI-FAB ENGINEER PVT LTD,Comprehensive AMC,1,1875,1875,228,QUARTLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Mumbai,>15  Days
+42,8335,113961,10/22/2020,08/31/2021,HI-FAB ENGINEER PVT LTD,Comprehensive AMC,2,4375,8750,228,QUARTLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Mumbai,>15  Days
+43,8546,114179,10/27/2020,07/31/2021,STERLITE POWER TRANSMISSION LTD.,Comprehensive AMC,1,3000,3000,223,QUARTLY BILLING REQUIRED,Mangesh Sangar,SO Pending for AMC Renewal,Mumbai,>15  Days
+44,8546,114179,10/27/2020,07/31/2021,STERLITE POWER TRANSMISSION LTD.,Comprehensive AMC,1,4500,4500,223,QUARTLY BILLING REQUIRED,Mangesh Sangar,SO Pending for AMC Renewal,Mumbai,>15  Days
+45,8546,114179,10/27/2020,07/31/2021,STERLITE POWER TRANSMISSION LTD.,Comprehensive AMC,1,3000,3000,223,QUARTLY BILLING REQUIRED,Mangesh Sangar,SO Pending for AMC Renewal,Mumbai,>15  Days
+46,8546,114179,10/27/2020,07/31/2021,STERLITE POWER TRANSMISSION LTD.,Comprehensive AMC,1,4500,4500,223,QUARTLY BILLING REQUIRED,Mangesh Sangar,SO Pending for AMC Renewal,Mumbai,>15  Days
+47,8546,114179,10/27/2020,07/31/2021,STERLITE POWER TRANSMISSION LTD.,Comprehensive AMC,1,3000,3000,223,QUARTLY BILLING REQUIRED,Mangesh Sangar,SO Pending for AMC Renewal,Mumbai,>15  Days
+48,8546,114179,10/27/2020,07/31/2021,STERLITE POWER TRANSMISSION LTD.,Comprehensive AMC,1,4500,4500,223,QUARTLY BILLING REQUIRED,Mangesh Sangar,SO Pending for AMC Renewal,Mumbai,>15  Days
+49,8547,114180,10/27/2020,06/30/2021,AVYOM TECHSYSTEMS PVT LTD,LED CEILING LIGHT 2X2 24W KCEL CDL - LCTLRNE-24-FO-CDL - CROMP,50,1230,166050,223,SO PENDING FOR MATERIAL NOT AVAILABLE,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+50,8547,114180,10/27/2020,06/30/2021,AVYOM TECHSYSTEMS PVT LTD,LED TUBELIGHT RETROFIT 18W T8  PC - CW - LT8-20-865-2 - CROMP,4,200,800,223,SO PENDING FOR MATERIAL NOT AVAILABLE,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+51,8547,114180,10/27/2020,06/30/2021,AVYOM TECHSYSTEMS PVT LTD,LED FLP 2X16/20W LED TUBELIGHT LUMINAIRE FLAME PROOF  - EXTN1LT8-16/20 -CROMP,2,4505,9010,223,SO PENDING FOR MATERIAL NOT AVAILABLE,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+52,9012,114685,11/04/2020,06/30/2021,TATA CONSULTANCY SERVICES LTD,Service and Deputation Charges,1,6600,6600,215,QUARTLY BILLING REQUIRED,Mangesh Sangar,SO Pending for Service Call/ Service Charges,Mumbai,>15  Days
+53,9018,114691,11/04/2020,07/18/2019,NSEIT LTD,65AH/70AH/12V  Quanta Battery,8,4275,34200,215,INSTALLATION PENDING,MANISHA JADHAV,Other Reason,Mumbai,>15  Days
+54,10939,116713,12/10/2020,11/30/2021,RUSH NETWORKS LLP,Comprehensive AMC,3,19000,57000,179,QUTERLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Pune,>15  Days
+55,10972,116750,12/10/2020,12/10/2021,VAL ORGANICS PVT LTD,Installation Charges,1,24000,24000,179,SITE NOT READY,Niraj Shah,SO Pending for Site not ready,Mumbai,>15  Days
+56,11451,117277,12/18/2020,06/30/2021,SIMI ELECTRONICS,Comprehensive AMC,1,937.5,937.5,171,QUATERLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Mumbai,>15  Days
+57,11451,117277,12/18/2020,06/30/2021,SIMI ELECTRONICS,Comprehensive AMC,1,937.5,937.5,171,QUATERLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Mumbai,>15  Days
+58,11451,117277,12/18/2020,06/30/2021,SIMI ELECTRONICS,Comprehensive AMC,1,750,750,171,QUATERLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Mumbai,>15  Days
+59,11466,117292,12/21/2020,06/30/2021,AVYOM TECHSYSTEMS PVT LTD,LED BACKLIT PANEL LIGHT 1x4 40W SURFACE - CW - LCTLSNE-40-CDL - CROMP,25,1645,54285,168,LED BACKLIT PANEL LIGHT 1x4 40W SURFACE - CW - LCTLSNE-40-CDL - CROMP NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+60,11466,117292,12/21/2020,06/30/2021,AVYOM TECHSYSTEMS PVT LTD,LED 40 W FLAME PROOF WELLGLASS - FWL1315-40-CDL - CROMP,18,4668,140040,168,LED BACKLIT PANEL LIGHT 1x4 40W SURFACE - CW - LCTLSNE-40-CDL - CROMP NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+61,11490,117317,12/21/2020,11/16/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,13000,13000,168,QUATERLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Pune,>15  Days
+62,11490,117317,12/21/2020,11/16/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,9500,9500,168,QUATERLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Pune,>15  Days
+63,11490,117317,12/21/2020,11/16/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,13000,13000,168,QUATERLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Pune,>15  Days
+64,11490,117317,12/21/2020,11/16/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,3250,3250,168,QUATERLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Pune,>15  Days
+65,11490,117317,12/21/2020,11/16/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,13000,13000,168,QUATERLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Pune,>15  Days
+66,11490,117317,12/21/2020,11/16/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,9500,9500,168,QUATERLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Pune,>15  Days
+67,11490,117317,12/21/2020,11/16/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,13000,13000,168,QUATERLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Pune,>15  Days
+68,11490,117317,12/21/2020,11/16/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,3250,3250,168,QUATERLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Pune,>15  Days
+69,11771,117606,12/25/2020,04/01/2021,WIPTECH PERIPHERALS PVT LTD,Charger Board - 6 KVA PB,1,11864,11864,164,"We don't have material in our stock so we have ordered to Vertiv once received we will process,",Rajiv Nambiar,SO Pending for Material not available,Mumbai,>15  Days
+70,11771,117606,12/25/2020,04/01/2021,WIPTECH PERIPHERALS PVT LTD,Fuse 32 AMP 6 KVA PB,2,233,2330,164,"We don't have material in our stock so we have ordered to Vertiv once received we will process,",Rajiv Nambiar,SO Pending for Material not available,Mumbai,>15  Days
+71,11771,117606,12/25/2020,04/01/2021,WIPTECH PERIPHERALS PVT LTD,Fuse 100AMP S400D,1,251,1255,164,"We don't have material in our stock so we have ordered to Vertiv once received we will process,",Rajiv Nambiar,SO Pending for Material not available,Mumbai,>15  Days
+72,12387,118254,01/05/2021,11/30/2021,KINGSTON PROPERTY SERVICES LTD,Comprehensive AMC,1,15000,15000,153,SERIVES PENDING,PRASAD BASETTY,SO Pending for AMC Renewal,Mumbai,>15  Days
+73,12387,118254,01/05/2021,11/30/2021,KINGSTON PROPERTY SERVICES LTD,Comprehensive AMC,1,15000,15000,153,SERIVES PENDING,PRASAD BASETTY,SO Pending for AMC Renewal,Mumbai,>15  Days
+74,13401,119339,01/23/2021,06/30/2021,BLUE LINE INFOTECH,100AH/110AH/12V   Quanta Battery,130,6050,4840000,135,REMING MATERIAL PENDIDNG,Asmita,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+75,13420,119358,01/25/2021,03/31/2021,GENERAL MILLS INDIA PRIVATE LIMITED,Comprehensive AMC,1,1168.75,1168.75,133,invoice for line item 4 will raised in march 1 march 2021,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+76,13421,119359,01/25/2021,03/31/2021,GENERAL MILLS INDIA PRIVATE LIMITED,Comprehensive AMC,1,206.25,206.25,133,invoice for line item 4 will raised in march 1 march 2021,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+77,13422,119360,01/25/2021,03/31/2021,GENERAL MILLS INDIA PRIVATE LIMITED,Comprehensive AMC,1,1375,1375,133,invoice for line item 4 will raised in march 1 march 2021,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+78,13424,119362,01/25/2021,03/01/2021,GENERAL MILLS INDIA PRIVATE LIMITED,Comprehensive AMC,1,1375,1375,133,invoice for line item 4 will raised in march 1 march 2021,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+79,13439,119378,01/25/2021,09/30/2021,KALPATARU CAPEX LLP,Comprehensive AMC,1,3375,3375,133,QUATERLY BILLING,Sagar Kemse,SO Pending for AMC Renewal,Pune,>15  Days
+80,13439,119378,01/25/2021,09/30/2021,KALPATARU CAPEX LLP,Comprehensive AMC,1,1450,1450,133,QUATERLY BILLING,Sagar Kemse,SO Pending for AMC Renewal,Pune,>15  Days
+81,13439,119378,01/25/2021,09/30/2021,KALPATARU CAPEX LLP,Comprehensive AMC,1,3375,3375,133,QUATERLY BILLING,Sagar Kemse,SO Pending for AMC Renewal,Pune,>15  Days
+82,13439,119378,01/25/2021,09/30/2021,KALPATARU CAPEX LLP,Comprehensive AMC,1,1450,1450,133,QUATERLY BILLING,Sagar Kemse,SO Pending for AMC Renewal,Pune,>15  Days
+83,13504,119444,01/27/2021,06/30/2021,AVYOM TECHSYSTEMS PVT LTD,LED SLIM PANEL LIGHT 15W - AL - R - CW - LSCRM-15W-CDL - CROMP,80,404,68680,131,material is not available in bhiwandi stock,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+84,13530,119473,01/27/2021,07/31/2021,RUSH NETWORKS LLP,PM Charges,1,4500,4500,131,QUATERLY BILING,Sunny Kothmire,SO Pending for AMC Renewal,Pune,>15  Days
+85,13530,119473,01/27/2021,07/31/2021,RUSH NETWORKS LLP,PM Charges,1,4500,4500,131,QUATERLY BILING,Sunny Kothmire,SO Pending for AMC Renewal,Pune,>15  Days
+86,13530,119473,01/27/2021,07/31/2021,RUSH NETWORKS LLP,PM Charges,1,4500,4500,131,QUATERLY BILING,Sunny Kothmire,SO Pending for AMC Renewal,Pune,>15  Days
+87,13800,119753,01/30/2021,03/31/2021,MAHINDRA LOGISTICS LIMITED,Rental charges,3,45000,135000,128,,Rajiv Nambiar,SO Pending for Rental Renewal,Mumbai,>15  Days
+88,13800,119753,01/30/2021,03/31/2021,MAHINDRA LOGISTICS LIMITED,Rental charges,3,30000,90000,128,,Rajiv Nambiar,SO Pending for Rental Renewal,Mumbai,>15  Days
+89,80801,119816,02/01/2021,06/30/2021,BHILOSA INDUSTRIES PRIVATE LIMITED,LED TUBE LIGHT T8 BATTEN 18W - CW (IP66),58,586,344568,126,REMANING MATERIAL  PENIDNG,Niraj Shah,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+90,14010,119973,02/03/2021,07/31/2021,GODREJ TYSON FOODS LIMITED,Comprehensive AMC,1,3166,3166,124,SO Pending for AMC Renewal,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+91,14010,119973,02/03/2021,07/31/2021,GODREJ TYSON FOODS LIMITED,Comprehensive AMC,1,3166,3166,124,SO Pending for AMC Renewal,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+92,80810,120016,02/04/2021,03/31/2021,POLYCAB INDIA LTD,Repair & Service Charges,1,1500,1500,123,Service pending,Rajiv Nambiar,Service pending,Mumbai,>15  Days
+93,14438,120433,02/10/2021,04/01/2021,PAREKH INTEGRATED SERVICES PVT LTD,200AH X 34 Nos Rack,1,25480,25480,117,NOT IN STOCK -150 KVA APM UPS Frame,Neeta,SO Pending for Material not available,Mumbai,>15  Days
+94,14438,120433,02/10/2021,04/01/2021,PAREKH INTEGRATED SERVICES PVT LTD,Links U-4 15 Inch,20,0,0,117,NOT IN STOCK -150 KVA APM UPS Frame,Neeta,SO Pending for Material not available,Mumbai,>15  Days
+95,14451,120447,02/10/2021,07/31/2021,BLUE LINE INFOTECH,100AH/110AH/12V   Quanta Battery,770,6050,4840000,117,SO Pending fOR REMING MATERIAL PENIGN,Asmita,SO Pending for Partial Material Avaialbility,Mumbai,>15  Days
+96,14468,120465,02/10/2021,06/30/2021,AVYOM TECHSYSTEMS PVT LTD,LED 40 W FLAME PROOF WELLGLASS - FWL1315-40-CDL - CROMP,35,4665,163275,117,VENDOR INVOICE PENIDNG,Niraj Shah,Vendor Invoice Pending,Mumbai,>15  Days
+97,80865,120894,02/19/2021,06/30/2021,BHILOSA INDUSTRIES PRIVATE LIMITED,LED TUBE PATTI - 2 TUBES ( V SHAPE),80,1450,116000,108,PENDIGN PAYMENT,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+98,80865,120894,02/19/2021,06/30/2021,BHILOSA INDUSTRIES PRIVATE LIMITED,LED TUBE LIGHT T8 RETROFIT - 18W (HEL),160,0,0,108,PENDIGN PAYMENT,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+99,14876,120898,02/19/2021,06/30/2021,SYMATIC ENGINEERING PVT LTD,Installtion & commissing for equipment,4,7500,30000,108,INSTALLATION PENING,Niraj Shah,Vendor Invoice Pending,Mumbai,>15  Days
+100,14990,121019,02/20/2021,06/30/2021,AVYOM TECHSYSTEMS PVT LTD,LED FLOOD LIGHT-120W-CW-LFLN-120-CDL/60-M-CROMP,26,4220,206780,107,HALF MATERIA PENDING,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+101,15113,121148,02/23/2021,03/31/2021,SWASTIK HARDWARE AND ELECTRICALS,63A 4P 15kA C-Curve MCB - 5SL74637RC,3,1038.12,3114.36,104,SO Pending for Material not available,Umesh Sawakhande,SO Pending for Partial Material Avaialbility,Mumbai,>15  Days
+102,80880,121193,02/23/2021,06/30/2021,BHILOSA INDUSTRIES PRIVATE LIMITED,LED TUBE LIGHT T8 BATTEN 18W - CW (IP66),25,586,117200,104,All Material is not in vapi stock.,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+103,80880,121193,02/23/2021,06/30/2021,BHILOSA INDUSTRIES PRIVATE LIMITED,LED TUBE LIGHT T8 BATTEN 18W - CW (IP66),325,586,190450,104,All Material is not in vapi stock.,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+104,15216,121257,02/24/2021,06/30/2021,AVYOM TECHSYSTEMS PVT LTD,LED PANEL LIGHT 18W (R) - CW - LCDEP-18-CDL - CROMP,30,489,53790,103,Material not available in stock.,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+105,15343,121386,02/26/2021,07/01/2021,HUNTSMAN INTERNATIONAL (INDIA) PVT LIMITED,Repair & Service Charges,1,10000,10000,101,Service pending,Sagar Kemse,Service pending,Mumbai,>15  Days
+106,15343,121386,02/26/2021,07/01/2021,HUNTSMAN INTERNATIONAL (INDIA) PVT LIMITED,Repair & Service Charges,1,10000,10000,101,Service pending,Sagar Kemse,Service pending,Mumbai,>15  Days
+107,15380,121425,02/26/2021,04/01/2021,EVIO PRIVATE LIMITED,POD BOX,1,0,0,101,Pending for POD It will take 5 days,MANISHA JADHAV,SO Pending for Material not available,Mumbai,>15  Days
+108,15380,121425,02/26/2021,04/01/2021,EVIO PRIVATE LIMITED,100AH/70AH X 30 Nos Rack,1,0,0,101,Pending for POD It will take 5 days,MANISHA JADHAV,SO Pending for Material not available,Mumbai,>15  Days
+109,15380,121425,02/26/2021,04/01/2021,EVIO PRIVATE LIMITED,Links U-8 12  Inch,44,0,0,101,Pending for POD It will take 5 days,MANISHA JADHAV,SO Pending for Material not available,Mumbai,>15  Days
+110,15380,121425,02/26/2021,04/01/2021,EVIO PRIVATE LIMITED,Links U-8 25 Inch,18,0,0,101,Pending for POD It will take 5 days,MANISHA JADHAV,SO Pending for Material not available,Mumbai,>15  Days
+111,15380,121425,02/26/2021,04/01/2021,EVIO PRIVATE LIMITED,Nyvin Cable 8U,20,0,0,101,Pending for POD It will take 5 days,MANISHA JADHAV,SO Pending for Material not available,Mumbai,>15  Days
+112,15766,121837,03/05/2021,06/30/2021,GLOBAL VIPASSANA FOUNDATION,smart cabinet,1,1150000,1150000,94,MATERIAL NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+113,15766,121837,03/05/2021,06/30/2021,GLOBAL VIPASSANA FOUNDATION,Installation Charges,1,200000,200000,94,MATERIAL NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+114,15766,121837,03/05/2021,06/30/2021,GLOBAL VIPASSANA FOUNDATION,Copper Pipe Insulation,30,0,0,94,MATERIAL NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+115,15766,121837,03/05/2021,06/30/2021,GLOBAL VIPASSANA FOUNDATION,Refrigerant,14,0,0,94,MATERIAL NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+116,15766,121837,03/05/2021,06/30/2021,GLOBAL VIPASSANA FOUNDATION,PVC CONDUIT PIPE WITH ACCESSORIES,30,0,0,94,MATERIAL NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+117,15766,121837,03/05/2021,06/30/2021,GLOBAL VIPASSANA FOUNDATION,Copper Cable,30,0,0,94,MATERIAL NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+118,15766,121837,03/05/2021,06/30/2021,GLOBAL VIPASSANA FOUNDATION,"LIFTING , SHIFTING , POSITIONING & INSTALLATING",2,0,0,94,MATERIAL NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+119,15766,121837,03/05/2021,06/30/2021,GLOBAL VIPASSANA FOUNDATION,Labour Charges,2,0,0,94,MATERIAL NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+120,15766,121837,03/05/2021,06/30/2021,GLOBAL VIPASSANA FOUNDATION,Installation Charges,2,0,0,94,MATERIAL NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+121,15766,121837,03/05/2021,06/30/2021,GLOBAL VIPASSANA FOUNDATION,Copper Cable,30,0,0,94,MATERIAL NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+122,15766,121837,03/05/2021,06/30/2021,GLOBAL VIPASSANA FOUNDATION,Tray,15,0,0,94,MATERIAL NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+123,15766,121837,03/05/2021,06/30/2021,GLOBAL VIPASSANA FOUNDATION,Installation Charges For Smart Soluation,1,0,0,94,MATERIAL NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+124,15766,121837,03/05/2021,06/30/2021,GLOBAL VIPASSANA FOUNDATION,Installation Charges,1,0,0,94,MATERIAL NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+125,15766,121837,03/05/2021,06/30/2021,GLOBAL VIPASSANA FOUNDATION,Installation Charges,2,0,0,94,MATERIAL NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+126,15775,121846,03/05/2021,06/30/2021,VIRAJ ENTERPRISES,150 KVA APM UPS Frame,1,300000,300000,94,SITE NOT  REDAY,Sachin Kasture,SO Pending for Material not available,Pune,>15  Days
+127,15775,121846,03/05/2021,06/30/2021,VIRAJ ENTERPRISES,30KVA MODULES,3,185000,555000,94,SITE NOT  REDAY,Sachin Kasture,SO Pending for Material not available,Pune,>15  Days
+128,15775,121846,03/05/2021,06/30/2021,VIRAJ ENTERPRISES,150AH/12V Quanta Battery,40,9700,388000,94,SITE NOT  REDAY,Sachin Kasture,SO Pending for Material not available,Pune,>15  Days
+129,15775,121846,03/05/2021,06/30/2021,VIRAJ ENTERPRISES,NYVIN Cable U0,20,0,0,94,SITE NOT  REDAY,Sachin Kasture,SO Pending for Material not available,Pune,>15  Days
+130,15775,121846,03/05/2021,06/30/2021,VIRAJ ENTERPRISES,Links U-0 25  Inch,40,0,0,94,SITE NOT  REDAY,Sachin Kasture,SO Pending for Material not available,Pune,>15  Days
+131,15775,121846,03/05/2021,06/30/2021,VIRAJ ENTERPRISES,Gar Film for Battery Stand,15,0,0,94,SITE NOT  REDAY,Sachin Kasture,SO Pending for Material not available,Pune,>15  Days
+132,15775,121846,03/05/2021,06/30/2021,VIRAJ ENTERPRISES,150AH X 40 Nos Rack,1,0,0,94,SITE NOT  REDAY,Sachin Kasture,SO Pending for Material not available,Pune,>15  Days
+133,80914,121866,03/06/2021,06/30/2021,BHILOSA INDUSTRIES PRIVATE LIMITED,LED TUBE LIGHT T8 BATTEN 18W - CW (IP66),110,586,175800,93,MATERIAL NOT AVALEBAL IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+134,80914,121866,03/06/2021,06/30/2021,BHILOSA INDUSTRIES PRIVATE LIMITED,LED TUBE LIGHT T8 BATTEN 18W - CW (IP66),100,586,175800,93,MATERIAL NOT AVALEBAL IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+135,80914,121866,03/06/2021,06/30/2021,BHILOSA INDUSTRIES PRIVATE LIMITED,LED TUBE LIGHT T8 BATTEN 18W - CW (IP66),400,586,234400,93,MATERIAL NOT AVALEBAL IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+136,15760,121831,03/06/2021,06/30/2021,EMERSON ELECTRIC CO. (INDIA) PVT. LTD.,Comprehensive AMC,1,5000,5000,93,QUATERLY BILLING,Mangesh Sangar,SO Pending for AMC Renewal,Mumbai,>15  Days
+137,15870,121946,03/08/2021,05/30/2021,AVENUE FOOD PLAZA PVT LTD,Transportation Charges,1,1800,1800,91,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+138,15871,121948,03/08/2021,05/30/2021,AVENUE FOOD PLAZA PVT LTD,Transportation Charges,1,1800,1800,91,Hold By Customer,Ratnesh Tiwari,SO Pending for Partial Material Avaialbility,Mumbai,>15  Days
+139,15872,121949,03/08/2021,05/30/2021,AVENUE FOOD PLAZA PVT LTD,Transportation Charges,1,1800,1800,91,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+140,16411,122521,03/16/2021,06/30/2021,LARSEN & TOUBRO LIMITED,"Liebert Power bank 600, 1X1, 6 KVA UPS",3,71500,214500,83,HOLD BY SALES - AFTER CUSTOMER CONFIRMATION WE WILL DISPATCH,Amar chavan,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+141,16411,122521,03/16/2021,06/30/2021,LARSEN & TOUBRO LIMITED,40AH/42AH/12V  Quanta Battery,48,3200,153600,83,HOLD BY SALES - AFTER CUSTOMER CONFIRMATION WE WILL DISPATCH,Amar chavan,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+142,16411,122521,03/16/2021,06/30/2021,LARSEN & TOUBRO LIMITED,26AH/40AH X 16 Nos Rack,3,3000,9000,83,HOLD BY SALES - AFTER CUSTOMER CONFIRMATION WE WILL DISPATCH,Amar chavan,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+143,16411,122521,03/16/2021,06/30/2021,LARSEN & TOUBRO LIMITED,Links U-12 12 Inch,30,0,0,83,HOLD BY SALES - AFTER CUSTOMER CONFIRMATION WE WILL DISPATCH,Amar chavan,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+144,16411,122521,03/16/2021,06/30/2021,LARSEN & TOUBRO LIMITED,Links U-12 25 Inch,20,0,0,83,HOLD BY SALES - AFTER CUSTOMER CONFIRMATION WE WILL DISPATCH,Amar chavan,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+145,16411,122521,03/16/2021,06/30/2021,LARSEN & TOUBRO LIMITED,NYVIN Cable 12U,15,0,0,83,HOLD BY SALES - AFTER CUSTOMER CONFIRMATION WE WILL DISPATCH,Amar chavan,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+146,16450,122568,03/16/2021,06/30/2021,BLUE LINE INFOTECH,100AH/110AH/12V   Quanta Battery,700,6050,4840000,83,REMINING MATERIAL PENDING,Asmita,SO Pending for Material not available,Mumbai,>15  Days
+147,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Circuit breaker 3VA1 IEC frame 250class S Icu=36kA@415V 3-pole,TM240,Ir=175A-250A 3VA1225-4EE32-0AA0",4,13446.4,53785.6,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+148,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary contact blocks 3TF30 to 35, Contacts: 1NO 3RH2911-1HA10",3,116.6,466.4,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+149,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,Bimetal relay with single phasing prevention 6.3...10 A 3UA5000-1J,4,794.2,3176.8,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+150,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary contact blocks 3TF30 to 35, Contacts: 1NO 3RH2911-1HA10",4,116.6,466.4,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+151,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary switch on the front, 1 NC Current path 1 NC for 3RH and 3RT screw terminal 3RH2911-1HA01",8,116.6,932.8,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+152,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,Bimetal relay with single phasing prevention 6.3...10 A 3UA5000-1J,4,794.2,3176.8,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+153,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary contact blocks 3TF30 to 35, Contacts: 1NO 3RH2911-1HA10",4,116.6,466.4,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+154,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary switch on the front, 1 NC Current path 1 NC for 3RH and 3RT screw terminal 3RH2911-1HA01",8,116.6,932.8,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+155,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,Bimetal overload relay - 3UA5000-1H,4,789.8,3159.2,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+156,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary contact blocks 3TF30 to 35, Contacts: 1NO 3RH2911-1HA10",4,116.6,466.4,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+157,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,Bimetal relay with single phasing prevention 6.3...10 A 3UA5000-1J,4,794.2,3176.8,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+158,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary contact blocks 3TF30 to 35, Contacts: 1NO 3RH2911-1HA10",12,116.6,1399.2,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+159,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary switch on the front, 1 NC Current path 1 NC for 3RH and 3RT screw terminal 3RH2911-1HA01",8,116.6,932.8,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+160,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,THERMAL O/L RELAY - 3UA55002D,4,1392.6,5570.4,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+161,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary contact blocks 3TF30 to 35, Contacts: 1NO 3RH2911-1HA10",4,116.6,466.4,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+162,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary switch on the front, 1 NC Current path 1 NC for 3RH and 3RT screw terminal 3RH2911-1HA01",8,116.6,932.8,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+163,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,Bimetal overload relay - 3UA5000-1H,4,789.8,3159.2,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+164,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary contact blocks 3TF30 to 35, Contacts: 1NO 3RH2911-1HA10",4,116.6,466.4,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+165,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,Bimetal overload relay 3UA5000-1C,4,789.8,3159.2,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+166,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary contact blocks 3TF30 to 35, Contacts: 1NO 3RH2911-1HA10",4,116.6,466.4,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+167,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,Bimetal overload relay 3UA5000-1C,4,789.8,3159.2,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+168,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Circuit breaker 3VA1frame 160 N Icu=25kA@415V 3pole,TM220, In=160A Ir=112A-160A 3VA1116-3EE32-0AA0",4,9045.05,36180.2,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+169,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,DOOR MOUNTED ROTARY OPERATOR STANDARD 8UC-plastic handle IP65 : 3VA1 100/160 - 3VA91570FK51,4,1205.55,4822.2,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+170,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary contact blocks 3TF30 to 35, Contacts: 1NO 3RH2911-1HA10",8,116.6,932.8,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+171,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,Bimetal overload relay 4-6.3 3UA52001G,4,803,3212,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+172,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary contact blocks 3TF30 to 35, Contacts: 1NO 3RH2911-1HA10",12,116.6,1399.2,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+173,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary switch on the front, 1 NC Current path 1 NC for 3RH and 3RT screw terminal 3RH2911-1HA01",8,116.6,932.8,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+174,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,Bimetal overload relay - 3UA5000-1H,4,789.8,3159.2,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+175,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary contact blocks 3TF30 to 35, Contacts: 1NO 3RH2911-1HA10",8,116.6,932.8,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+176,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary switch on the front, 1 NC Current path 1 NC for 3RH and 3RT screw terminal 3RH2911-1HA01",8,116.6,932.8,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+177,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,Bimetal relay with single phasing prevention 6.3...10 A 3UA5000-1J,4,794.2,3176.8,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+178,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary contact blocks 3TF30 to 35, Contacts: 1NO 3RH2911-1HA10",4,116.6,466.4,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+179,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,Bimetal overload relay 4-6.3 3UA52001G,4,803,3212,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+180,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary contact blocks 3TF30 to 35, Contacts: 1NO 3RH2911-1HA10",16,116.6,1865.6,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+181,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary switch on the front, 1 NC Current path 1 NC for 3RH and 3RT screw terminal 3RH2911-1HA01",8,116.6,932.8,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+182,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary contact blocks 3TF30 to 35, Contacts: 1NO 3RH2911-1HA10",16,116.6,1865.6,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+183,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,Bimetal relay with single phasing prevention 6.3...10 A 3UA5000-1J,4,794.2,3176.8,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+184,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary contact blocks 3TF30 to 35, Contacts: 1NO 3RH2911-1HA10",4,116.6,466.4,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+185,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,Bimetal overload relay 3UA5000-1C,4,789.8,3159.2,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+186,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,"Auxiliary contact blocks 3TF30 to 35, Contacts: 1NO 3RH2911-1HA10",4,116.6,466.4,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+187,16465,122584,03/17/2021,06/30/2021,KVEETECH ENTERPRISES,Bimetal overload relay 3UA5000-1C,4,789.8,3159.2,82,MATERIEL NOT IN STOCK - PO PLACED,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+188,16616,122742,03/17/2021,06/30/2021,VODAFONE IDEA BUSINESS SERVICES LIMITED,Installation Charges,1,7500,7500,82,MATERIAL NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+189,16616,122742,03/17/2021,06/30/2021,VODAFONE IDEA BUSINESS SERVICES LIMITED,Freight Charges,1,11580,11580,82,MATERIAL NOT IN STOCK,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+190,16430,122543,03/17/2021,06/30/2021,SAJ INDUSTRIES PRIVATE LIMITED,Charger,5,184260,921300,82,MATERIAL NOT IN STOCK  PENDIGN FROM AMARAJA,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+191,16726,122862,03/19/2021,06/30/2021,DECCAN FINE CHEMICALS (INDIA) PVT LTD,100AH/70AH X 24 Nos Rack,2,0,0,80,MATERIEL NOT IN STOCK - PO PLCED TO VERTIV,Amar chavan,SO Pending for Material not available,Mumbai,>15  Days
+192,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,Liebert 1 KVA GXT MT+CX SB,1,14667,14667,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+193,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,40AH/42AH/12V  Quanta Battery,20,3225,64500,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+194,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,Liebert 10 KVA GXTMT PLUS 1PH/1PH,1,118500,118500,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+195,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,40AH/42AH/12V  Quanta Battery,21,3225,67725,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+196,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,26AH/40AH X 16 Nos Rack,1,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+197,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,Links U-10 12 Inch,8,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+198,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,Links U-10 25  Inch,7,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+199,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,Nyvin Cable 10U,1,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+200,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,Isolation Transformer - 10 KVA,1,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+201,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,Snmpcard GXT-MT + FOR CX UPS,1,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+202,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,26AH/40AH X 20 Nos Rack,1,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+203,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,Links U-10 12 Inch,10,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+204,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,Links U-10 25  Inch,9,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+205,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,Nyvin Cable 10U,10,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+206,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,Stand For 10 Kva Gxtmt + Plus ups,1,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+207,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,UPS STAND,1,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+208,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,Cable,1,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+209,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,26AH/40AH X 6 Nos Rack,1,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+210,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,Links U-12 12 Inch,5,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+211,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,Links U-12 25 Inch,3,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+212,16799,122946,03/20/2021,05/30/2021,AVENUE SUPERMARTS LTD,NYVIN Cable 12U,3,0,0,79,Hold by Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+213,16804,122951,03/20/2021,06/30/2021,ETON GREEN TECHNOLOGIES,26AH/24AH/12V Exide Battery,2,2050,65600,79,MATERIA NOT IN STOCK,Sachin Kudale,SO Pending for Material not available,Pune,>15  Days
+214,16797,122944,03/22/2021,06/30/2021,DEVU TOOLS PVT LTD,LED HIGHBAY LIGHT 100W - CW UFO,2,4100,65600,77,MATERIAL NOT IN STOCK,PRASAD BASETTY,SO Pending for Material not available,Mumbai,>15  Days
+215,81039,125662,03/24/2021,,ATUL LTD,Comprehensive AMC,1,7000,7000,75,,Chetan Chedda,Other Reason,Vapi,>15  Days
+216,17068,123233,03/25/2021,07/31/2021,BLUE LINE INFOTECH,100AH/110AH/12V   Quanta Battery,1150,6050,12100000,74,REMINGH MATERIAL PENDIGN,Asmita,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+217,17326,123502,03/30/2021,06/30/2021,STERLITE TECHNOLOGIES LIMITED,Gar Film for Battery Stand,265,0,0,69,APPROVAL PENDING  from installation,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+218,17335,123513,03/31/2021,06/30/2021,POLYCAB INDIA LTD,Installation Charges,2,15750,31500,68,SITE NOT REDAY INSTALLATION PENNG,Deven Gada,SO Pending Because of Special instrcutions from the Sales Team,Vapi,>15  Days
+219,81036,123657,03/31/2021,06/30/2021,BHILOSA INDUSTRIES PRIVATE LIMITED,LED Street Light 60 W,57,3890,221730,68,REMING MATERIAL PENDIGN,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+220,17,123708,04/01/2021,05/31/2021,BLUE LINE INFOTECH,100AH/110AH/12V   Quanta Battery,1880,6050,12100000,67,REMING MATERIAL PENDING,Asmita,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+221,62,123756,04/01/2021,07/31/2021,KINGSTON PROPERTY SERVICES LTD,Comprehensive AMC,1,12500,12500,67,SERVICE PENDING,PRASAD BASETTY,Service pending,Mumbai,>15  Days
+222,74,123768,04/02/2021,06/30/2021,KVEETECH ENTERPRISES,"Fuse, 415VAC 125A 80KA ;BS88:2:1988, Catalogue No. 3NWTFP125",1,422.5,422.5,66,MATERIEL NOT IN STOCK,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+223,110,123805,04/02/2021,,VERTIV ENERGY PRIVATE LIMITED,Onsite Installation Charges,1,312000,312000,66,,PUNIT SAVLA,Other Reason,Mumbai,>15  Days
+224,111,123806,04/02/2021,06/30/2021,TATA COMMUNICATIONS LIMITED,200ah X 20 Nos Rack,1,45000,45000,66,Pending for (Custom rack) delivery,Rajiv Nambiar,SO Pending for Material not available,Mumbai,>15  Days
+225,137,123834,04/03/2021,05/20/2021,AXIS BANK LTD,LED BACKLIT PANEL LIGHT 2x2 36W- CW - LCTLRP-36-FO-CDL - CROMP,14,1330,18620,65,PENDING FROM SALES  TEAM,Niraj Shah,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+226,153,123852,04/03/2021,05/31/2021,ESSGI INFOTECH PVT LTD,Buyback 65AH/70AH/12V QUT. Battery,18,1400,25200,65,,Rajiv Nambiar,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+227,245,123947,04/05/2021,07/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,FUEL FILTER ELEMENT PRIMARY,1,625,625,63,"Due to Lockdown, Activity Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+228,245,123947,04/05/2021,07/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,FUEL FILTERELEMENT SECONDARY,1,625,625,63,"Due to Lockdown, Activity Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+229,245,123947,04/05/2021,07/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,SPINON LUBE OILFILTER,2,675,1350,63,"Due to Lockdown, Activity Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+230,245,123947,04/05/2021,07/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,COPPER WASHER(20X26),6,35,210,63,"Due to Lockdown, Activity Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+231,245,123947,04/05/2021,07/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,COPPER WASHER(16X20),6,35,210,63,"Due to Lockdown, Activity Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+232,245,123947,04/05/2021,07/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,KOEL CAREPremium GenuineOil 5 Liters CAN,1,2450,2450,63,"Due to Lockdown, Activity Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+233,245,123947,04/05/2021,07/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,KOEL CARE Premium Genuine Oil 20 Liters CAN,1,8200,8200,63,"Due to Lockdown, Activity Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+234,245,123947,04/05/2021,07/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,KOEL CARE GENUINECOOLANT PREMIX 5 LITRE CAN,1,1170,1170,63,"Due to Lockdown, Activity Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+235,245,123947,04/05/2021,07/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,V BELT:6R1080T/TA 7PK,1,1135,1135,63,"Due to Lockdown, Activity Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+236,245,123947,04/05/2021,07/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,"POLY V BELT(FENNER, 6PK-1190) PG",1,1050,1050,63,"Due to Lockdown, Activity Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+237,245,123947,04/05/2021,07/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,FUEL PIPE 8.0 14 B1000 WB,2,990,1980,63,"Due to Lockdown, Activity Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+238,245,123947,04/05/2021,07/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,BATTERY TERMINAL,2,155,310,63,"Due to Lockdown, Activity Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+239,245,123947,04/05/2021,07/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,DISTILLED WATER 5LTR,1,150,150,63,"Due to Lockdown, Activity Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+240,245,123947,04/05/2021,07/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,SYNETHIC JELLY,1,25,25,63,"Due to Lockdown, Activity Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+241,245,123947,04/05/2021,07/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,Freight Charges,1,4500,4500,63,"Due to Lockdown, Activity Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+242,245,123947,04/05/2021,07/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,Service and Deputation Charges,1,5000,5000,63,"Due to Lockdown, Activity Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+243,304,124006,04/05/2021,07/31/2021,SUNTECK REALTY HOLDINGS PVT. LTD.,HP LASERJET PRO MFP M128FW,1,20000,20000,63,Material not available with Vendor hence DC & Invoice pending.,PRASAD BASETTY,SO Pending for Material not available,Mumbai,>15  Days
+244,381,124090,04/06/2021,04/17/2021,FAIRDEAL ENTERPRISES,HARBAL HAND Sanitizer 5Ltr,1,2000,2000,62,Pending from Mehul Sir ( For Outward ),Neeta,SO Pending for Material not available,Mumbai,>15  Days
+245,381,124090,04/06/2021,04/17/2021,FAIRDEAL ENTERPRISES,HARBAL HAND Sanitizer 5Ltr,1,2000,2000,62,Pending from Mehul Sir ( For Outward ),Neeta,SO Pending for Material not available,Mumbai,>15  Days
+246,579,124302,04/08/2021,05/31/2021,DEV & ASSOCIATES,POD BOX,1,0,0,60,MATERIAL NOT IN STOCK,PRASAD BASETTY,SO Pending for Material not available,Mumbai,>15  Days
+247,624,124347,04/08/2021,10/03/2019,V TECH ENTERPRISES,Comprehensive AMC,2,40500,81000,60,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+248,75033,124372,04/09/2021,06/30/2021,RALLIS INDIA LIMITED,10 KVA HIPULSE D,1,205710,205710,59,10 KVA HIPULSE D  NOT IN STOCK,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+249,75033,124372,04/09/2021,06/30/2021,RALLIS INDIA LIMITED,40AH/42AH/12V  Quanta Battery,20,2940,58800,59,10 KVA HIPULSE D  NOT IN STOCK,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+250,75033,124372,04/09/2021,06/30/2021,RALLIS INDIA LIMITED,26AH/40AH X 20 Nos Rack,1,0,0,59,10 KVA HIPULSE D  NOT IN STOCK,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+251,75033,124372,04/09/2021,06/30/2021,RALLIS INDIA LIMITED,Links U-10 12 Inch,10,0,0,59,10 KVA HIPULSE D  NOT IN STOCK,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+252,75033,124372,04/09/2021,06/30/2021,RALLIS INDIA LIMITED,Links U-10 25  Inch,9,0,0,59,10 KVA HIPULSE D  NOT IN STOCK,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+253,75033,124372,04/09/2021,06/30/2021,RALLIS INDIA LIMITED,Nyvin Cable 10U,10,0,0,59,10 KVA HIPULSE D  NOT IN STOCK,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+254,75033,124372,04/09/2021,06/30/2021,RALLIS INDIA LIMITED,Gar Film for Battery Stand,25,0,0,59,10 KVA HIPULSE D  NOT IN STOCK,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+255,648,124374,04/09/2021,06/30/2021,STT GLOBAL DATA CENTRES INDIA PRIVATE LIMITED,Nyvin Cable 8U,35,67,2345,59,RMINNG MATERIAL PENDING,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+256,648,124374,04/09/2021,06/30/2021,STT GLOBAL DATA CENTRES INDIA PRIVATE LIMITED,Installation Charges,1,11050,11050,59,RMINNG MATERIAL PENDING,Niraj Shah,SO Pending for Material not available,Mumbai,>15  Days
+257,782,124511,04/12/2021,06/30/2021,ULTRATECH CEMENT LIMITED,CITEL TVSS (25 kva 1 phase),1,19000,19000,56,MATERIAL NOT IN STOCK,Asmita,SO Pending for Material not available,Mumbai,>15  Days
+258,924,124657,04/14/2021,,TATA COMMUNICATIONS LIMITED,Comprehensive AMC,1,156999.96,156999.96,54,,PUNIT SAVLA,Other Reason,Mumbai,>15  Days
+259,933,124666,04/15/2021,04/06/2021,IIFL FACILITIES SERVICES LIMITED,Comprehensive AMC,9,1750,15750,53,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+260,933,124666,04/15/2021,04/06/2021,IIFL FACILITIES SERVICES LIMITED,Comprehensive AMC,5,4800,24000,53,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+261,933,124666,04/15/2021,04/06/2021,IIFL FACILITIES SERVICES LIMITED,Comprehensive AMC,4,2125,8500,53,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+262,937,124670,04/15/2021,,TIRUPATI DHARA COMPLEX CO-OP. HOUSING SOCIETY LTD.,Comprehensive AMC,1,10450,10450,53,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+263,986,124719,04/15/2021,04/06/2021,IIFL SECURITIES LIMITED,Comprehensive AMC,1,22825,22825,53,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+264,986,124719,04/15/2021,04/06/2021,IIFL SECURITIES LIMITED,Comprehensive AMC,1,22825,22825,53,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+265,986,124719,04/15/2021,04/06/2021,IIFL SECURITIES LIMITED,Comprehensive AMC,1,22825,22825,53,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+266,986,124719,04/15/2021,04/06/2021,IIFL SECURITIES LIMITED,Comprehensive AMC,1,22275,22275,53,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+267,987,124720,04/15/2021,04/06/2021,IIFL FINANCE LIMITED,Comprehensive AMC,1,22825,22825,53,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+268,987,124720,04/15/2021,04/06/2021,IIFL FINANCE LIMITED,Comprehensive AMC,1,32500,32500,53,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+269,1087,124824,04/19/2021,05/31/2021,GENERAL MILLS INDIA PRIVATE LIMITED,"32 amp, 2 Pole  Static Switch",1,60000,60000,49,,Rajiv Nambiar,SO Pending for Material not available,Mumbai,>15  Days
+270,1087,124824,04/19/2021,05/31/2021,GENERAL MILLS INDIA PRIVATE LIMITED,Rack,1,9000,9000,49,,Rajiv Nambiar,SO Pending for Material not available,Mumbai,>15  Days
+271,1087,124824,04/19/2021,05/31/2021,GENERAL MILLS INDIA PRIVATE LIMITED,Installation Charges,1,2000,2000,49,,Rajiv Nambiar,SO Pending for Material not available,Mumbai,>15  Days
+272,1118,124856,04/19/2021,07/06/2021,AVENUE E-COMMERCE LIMITED,LIEBERT 2 KVA GXTMT+ SB CX,1,24900,24900,49,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+273,1118,124856,04/19/2021,07/06/2021,AVENUE E-COMMERCE LIMITED,UPS STAND,1,0,0,49,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+274,1118,124856,04/19/2021,07/06/2021,AVENUE E-COMMERCE LIMITED,Cable,1,0,0,49,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+275,1123,124861,04/19/2021,08/06/2021,AVENUE E-COMMERCE LIMITED,200AH/12V  Quanta Battery,6,12900,77400,49,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+276,1123,124861,04/19/2021,08/06/2021,AVENUE E-COMMERCE LIMITED,200AH X 6 Nos Rack,1,2800,2800,49,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+277,1123,124861,04/19/2021,08/06/2021,AVENUE E-COMMERCE LIMITED,Links U-8 15 Inch,4,0,0,49,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+278,1123,124861,04/19/2021,08/06/2021,AVENUE E-COMMERCE LIMITED,Links U-8  30 Inch,1,0,0,49,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+279,1123,124861,04/19/2021,08/06/2021,AVENUE E-COMMERCE LIMITED,Nyvin Cable 8U,2,0,0,49,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+280,1126,124864,04/19/2021,06/30/2021,KVEETECH ENTERPRISES,"32A 3P SFU, Execution: Open, Type: 3KL8, Fuse Type: DIN 3KL8121-1TA00",2,888,1776,49,SO Pending for Material not available,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+281,1126,124864,04/19/2021,06/30/2021,KVEETECH ENTERPRISES,"Operating shaft (300mm) for SFU: 3KT812/14/16, 3KL811/12/15, 3KA815 8UC60-31",2,101.2,202.4,49,SO Pending for Material not available,Vinod KK,SO Pending for Material not available,Mumbai,>15  Days
+282,1196,124935,04/21/2021,06/30/2021,MAHINDRA & MAHINDRA LIMITED,Battery Cap (Black),35,0,0,47,Battery Cap (Black) NOT IN STOCK,Sachin Kudale,SO Pending for Material not available,Pune,>15  Days
+283,1196,124935,04/21/2021,06/30/2021,MAHINDRA & MAHINDRA LIMITED,Battery Cap (Red),35,0,0,47,Battery Cap (Black) NOT IN STOCK,Sachin Kudale,SO Pending for Material not available,Pune,>15  Days
+284,1222,124962,04/21/2021,04/21/2021,RUSH NETWORKS LLP,Visiting Charges,1,1500,1500,47,Activity Pending,Rajiv Nambiar,Service pending,Mumbai,>15  Days
+285,1312,125054,04/23/2021,04/23/2021,COLGATE PALMOLIVE (INDIA) LIMITED,100AH/110AH/12V   Quanta Battery,1,6500,6500,45,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+286,1312,125054,04/23/2021,04/23/2021,COLGATE PALMOLIVE (INDIA) LIMITED,Liebert itON LB 1000 VA 10/20A,1,8500,8500,45,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+287,1313,125055,04/23/2021,06/30/2021,COLGATE PALMOLIVE (INDIA) LIMITED,100AH/110AH/12V   Quanta Battery,1,6500,6500,45,Invoice Pending from Vendor,Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+288,1313,125055,04/23/2021,06/30/2021,COLGATE PALMOLIVE (INDIA) LIMITED,Liebert itON LB 1000 VA 10/20A,1,8500,8500,45,Invoice Pending from Vendor,Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+289,1314,125056,04/23/2021,04/23/2021,COLGATE PALMOLIVE (INDIA) LIMITED,100AH/110AH/12V   Quanta Battery,1,6500,6500,45,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+290,1314,125056,04/23/2021,04/23/2021,COLGATE PALMOLIVE (INDIA) LIMITED,Liebert itON LB 1000 VA 10/20A,1,8500,8500,45,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+291,1315,125057,04/23/2021,04/23/2021,COLGATE PALMOLIVE (INDIA) LIMITED,100AH/110AH/12V   Quanta Battery,1,6500,6500,45,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+292,1315,125057,04/23/2021,04/23/2021,COLGATE PALMOLIVE (INDIA) LIMITED,Liebert itON LB 1000 VA 10/20A,1,8500,8500,45,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+293,1326,125068,04/23/2021,04/23/2021,COLGATE PALMOLIVE (INDIA) LIMITED,100AH/110AH/12V   Quanta Battery,2,6500,13000,45,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+294,1326,125068,04/23/2021,04/23/2021,COLGATE PALMOLIVE (INDIA) LIMITED,Liebert itON LB 1000 VA 10/20A,2,8500,17000,45,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+295,1351,125093,04/23/2021,06/30/2021,APTIV COMPONENTS INDIA PVT LTD,Lugs,1,47000,47000,45,MATERIAL NOT IN STOCK,PRAMOD BABAR,SO Pending for Material not available,Pune,>15  Days
+296,1351,125093,04/23/2021,06/30/2021,APTIV COMPONENTS INDIA PVT LTD,NYVIN Cable 1U,24,0,0,45,MATERIAL NOT IN STOCK,PRAMOD BABAR,SO Pending for Material not available,Pune,>15  Days
+297,1351,125093,04/23/2021,06/30/2021,APTIV COMPONENTS INDIA PVT LTD,Links U-1 25 Inch,82,0,0,45,MATERIAL NOT IN STOCK,PRAMOD BABAR,SO Pending for Material not available,Pune,>15  Days
+298,1351,125093,04/23/2021,06/30/2021,APTIV COMPONENTS INDIA PVT LTD,Copper type Lugs,8,0,0,45,MATERIAL NOT IN STOCK,PRAMOD BABAR,SO Pending for Material not available,Pune,>15  Days
+299,1351,125093,04/23/2021,06/30/2021,APTIV COMPONENTS INDIA PVT LTD,Parallel cable,1,35700,35700,45,MATERIAL NOT IN STOCK,PRAMOD BABAR,SO Pending for Material not available,Pune,>15  Days
+300,1351,125093,04/23/2021,06/30/2021,APTIV COMPONENTS INDIA PVT LTD,Installation Charges,1,15000,15000,45,MATERIAL NOT IN STOCK,PRAMOD BABAR,SO Pending for Material not available,Pune,>15  Days
+301,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,Liebert 10 KVA GXTMT PLUS 1PH/1PH,1,118500,118500,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+302,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,Isolation Transformer - 10 KVA,1,0,0,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+303,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,Snmpcard GXT-MT + FOR CX UPS,1,0,0,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+304,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,100AH/70AH X 3 Nos Rack,1,0,0,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+305,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,40AH/42AH/12V  Quanta Battery,20,3225,64500,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+306,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,26AH/40AH X 20 Nos Rack,1,0,0,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+307,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,Links U-10 12 Inch,10,0,0,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+308,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,Links U-10 25  Inch,9,0,0,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+309,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,Nyvin Cable 10U,10,0,0,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+310,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,Liebert 1 KVA GXT MT+CX SB,1,14667,14667,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+311,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,Cable,1,0,0,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+312,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,UPS STAND,1,0,0,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+313,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,UPS STAND,1,0,0,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+314,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,40AH/42AH/12V  Quanta Battery,6,3225,19350,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+315,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,26AH/40AH X 6 Nos Rack,1,0,0,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+316,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,Links U-10 12 Inch,4,0,0,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+317,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,Links U-10 25  Inch,1,0,0,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+318,1348,125090,04/24/2021,05/27/2021,AVENUE SUPERMARTS LTD,Nyvin Cable 10U,2,0,0,44,Hold By Customer,Ratnesh Tiwari,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+319,1423,125169,04/27/2021,04/23/2021,COLGATE PALMOLIVE (INDIA) LIMITED,100AH/110AH/12V   Quanta Battery,1,6500,6500,41,Material will be delivered at Colgate Bhiwandi Warehouse then it will be shifted to Aurangabad.,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+320,1423,125169,04/27/2021,04/23/2021,COLGATE PALMOLIVE (INDIA) LIMITED,Liebert itON LB 1000 VA 10/20A,1,8500,8500,41,Material will be delivered at Colgate Bhiwandi Warehouse then it will be shifted to Aurangabad.,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+321,1472,125220,04/27/2021,06/30/2021,INFINITAS TECHNOLOGY SOLUTIONS PRIVATE LIMITED,1 KVA APC UPS,94,18500,1757500,41,1 KVA APC UPS NOT IN STOCK,Asmita,SO Pending for Material not available,Mumbai,>15  Days
+322,1506,125256,04/28/2021,05/31/2021,SHAPOORJI PALLONJI ARMADA OIL AND GAS SERVICES PRIVATE LIMITED,200AH/12V Fire Retardant Quanta Battery,2,14800,29600,40,MATEREIL NOT IN STOCK,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>15  Days
+323,1606,125359,04/30/2021,06/30/2021,COLGATE PALMOLIVE (INDIA) LIMITED,Liebert itON LB 1000 VA 10/20A,1,8500,8500,38,"Due to Lockdown, Delivery Pending from Vendor",Rajiv Nambiar,Vendor Invoice Pending,Mumbai,>15  Days
+324,1630,125385,04/30/2021,01/12/2021,TATA INSTITUTE OF FUNDAMENTAL RESEARCH,Visiting  Charges,1,3000,3000,38,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+325,1640,125396,04/30/2021,10/31/2021,V TECH ENTERPRISES,Comprehensive AMC,2,17760,35520,38,FOR LINE ITEM 2 AND 4 WILL BE RAISED IN OCTOBER,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+326,1640,125396,04/30/2021,10/31/2021,V TECH ENTERPRISES,Comprehensive AMC,1,8640,8640,38,FOR LINE ITEM 2 AND 4 WILL BE RAISED IN OCTOBER,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+327,1726,125485,05/04/2021,06/23/2021,MY INFRA POWER PVT LTD,Liebert 6 KVA GXTMT Plus UPS,1,45700,45700,34,26AH/40AH X 20 Nos Rack  MODIFY RACK NOT IN STOCK,Sachin Kudale,SO Pending for Material not available,Pune,>15  Days
+328,1726,125485,05/04/2021,06/23/2021,MY INFRA POWER PVT LTD,26AH/24AH/12V  Quanta Battery,20,2100,42000,34,26AH/40AH X 20 Nos Rack  MODIFY RACK NOT IN STOCK,Sachin Kudale,SO Pending for Material not available,Pune,>15  Days
+329,1726,125485,05/04/2021,06/23/2021,MY INFRA POWER PVT LTD,26AH/40AH X 20 Nos Rack,1,0,0,34,26AH/40AH X 20 Nos Rack  MODIFY RACK NOT IN STOCK,Sachin Kudale,SO Pending for Material not available,Pune,>15  Days
+330,1726,125485,05/04/2021,06/23/2021,MY INFRA POWER PVT LTD,NYVIN Cable 12U,5,0,0,34,26AH/40AH X 20 Nos Rack  MODIFY RACK NOT IN STOCK,Sachin Kudale,SO Pending for Material not available,Pune,>15  Days
+331,1726,125485,05/04/2021,06/23/2021,MY INFRA POWER PVT LTD,Links U-12 12 Inch,12,0,0,34,26AH/40AH X 20 Nos Rack  MODIFY RACK NOT IN STOCK,Sachin Kudale,SO Pending for Material not available,Pune,>15  Days
+332,1726,125485,05/04/2021,06/23/2021,MY INFRA POWER PVT LTD,Links U-12 25 Inch,10,0,0,34,26AH/40AH X 20 Nos Rack  MODIFY RACK NOT IN STOCK,Sachin Kudale,SO Pending for Material not available,Pune,>15  Days
+333,1798,125564,05/05/2021,05/31/2021,KONSTELEC ENGINEERS PVT LTD,Liebert 1 KVA GXTMT+ LB CX,1,17500,17500,33,,POONAM KAMBLE,Other Reason,Mumbai,>15  Days
+334,1798,125564,05/05/2021,05/31/2021,KONSTELEC ENGINEERS PVT LTD,26AH/24AH/12V Exide Battery,3,1950,5850,33,,POONAM KAMBLE,Other Reason,Mumbai,>15  Days
+335,1798,125564,05/05/2021,05/31/2021,KONSTELEC ENGINEERS PVT LTD,26AH/40AH X 3 Nos Rack,1,0,0,33,,POONAM KAMBLE,Other Reason,Mumbai,>15  Days
+336,1798,125564,05/05/2021,05/31/2021,KONSTELEC ENGINEERS PVT LTD,Links U-12 12 Inch,3,0,0,33,,POONAM KAMBLE,Other Reason,Mumbai,>15  Days
+337,1798,125564,05/05/2021,05/31/2021,KONSTELEC ENGINEERS PVT LTD,Links U-12 25 Inch,2,0,0,33,,POONAM KAMBLE,Other Reason,Mumbai,>15  Days
+338,1798,125564,05/05/2021,05/31/2021,KONSTELEC ENGINEERS PVT LTD,NYVIN Cable 12U,2,0,0,33,,POONAM KAMBLE,Other Reason,Mumbai,>15  Days
+339,1805,125573,05/05/2021,12/31/2021,BEETEL TELETECH LTD.,7AH/12V Quanta Battery,304,755,241600,33,MATERIEL DISPATCH SET WISE WHEN CUSTOMER REQUIRED,POONAM KAMBLE,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+340,1805,125573,05/05/2021,12/31/2021,BEETEL TELETECH LTD.,7AH X 16 Nos Rack,19,2200,44000,33,MATERIEL DISPATCH SET WISE WHEN CUSTOMER REQUIRED,POONAM KAMBLE,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+341,1805,125573,05/05/2021,12/31/2021,BEETEL TELETECH LTD.,Cable 6 SQ MM,320,80,25600,33,MATERIEL DISPATCH SET WISE WHEN CUSTOMER REQUIRED,POONAM KAMBLE,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+342,1805,125573,05/05/2021,12/31/2021,BEETEL TELETECH LTD.,09 inch links,250,0,0,33,MATERIEL DISPATCH SET WISE WHEN CUSTOMER REQUIRED,POONAM KAMBLE,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+343,1805,125573,05/05/2021,12/31/2021,BEETEL TELETECH LTD.,25 inch links,20,0,0,33,MATERIEL DISPATCH SET WISE WHEN CUSTOMER REQUIRED,POONAM KAMBLE,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+344,1826,125601,05/06/2021,06/30/2021,STERLITE TECHNOLOGIES LIMITED,Structural Load Analysis,1,25000,25000,32,SIE NOT READY,Niraj Shah,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+345,1831,125606,05/06/2021,05/06/2021,ADITI POWER TECH,Buyback 26AH/24AH/12V QUT. Battery,8,550,4400,32,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+346,1867,125643,05/07/2021,06/30/2021,TOYO ENGINEERING COMPANY,"CONTACTOR RELAY, 4 NO, 230 V AC, 50 / 60 HZ, 4- AND 8-POLE - 3RH21401AP00",2,487.5,5850,31,,Abhishek Nagda,SO Pending for Material not available,Mumbai,>15  Days
+347,1867,125643,05/07/2021,06/30/2021,TOYO ENGINEERING COMPANY,OE fuse holder 20 A 550 V - 3NW20NNSF,5,80,400,31,,Abhishek Nagda,SO Pending for Material not available,Mumbai,>15  Days
+348,1867,125643,05/07/2021,06/30/2021,TOYO ENGINEERING COMPANY,MPCB Alarm Contact - Trip and Short-circuit   - 3RV29211M,1,630.8,630.8,31,,Abhishek Nagda,SO Pending for Material not available,Mumbai,>15  Days
+349,1901,125681,05/10/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),WLD & RODANT DC1,1,62051,62051,28,SITE NOT REDAY,Sachin Kudale,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+350,1901,125681,05/10/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),WLD & RODANT DC2,1,165208,165208,28,SITE NOT REDAY,Sachin Kudale,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+351,1901,125681,05/10/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Floor Grill,100,0,0,28,SITE NOT REDAY,Sachin Kudale,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+352,1901,125681,05/10/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Floor Grill,100,0,0,28,SITE NOT REDAY,Sachin Kudale,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+353,1901,125681,05/10/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),PANEL,2,0,0,28,SITE NOT REDAY,Sachin Kudale,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+354,1901,125681,05/10/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Rodent Repellent System,2,0,0,28,SITE NOT REDAY,Sachin Kudale,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+355,1901,125681,05/10/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,1,0,0,28,SITE NOT REDAY,Sachin Kudale,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+356,75087,125892,05/12/2021,06/30/2021,MANI MORE TEXTILES PVT. LTD.,120AH X 34 Nos Rack,1,0,0,26,LINK PENING,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+357,75087,125892,05/12/2021,06/30/2021,MANI MORE TEXTILES PVT. LTD.,Links U-2 12 Inch,22,0,0,26,LINK PENING,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+358,75087,125892,05/12/2021,06/30/2021,MANI MORE TEXTILES PVT. LTD.,Links U-2 25 Inch,11,0,0,26,LINK PENING,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+359,75087,125892,05/12/2021,06/30/2021,MANI MORE TEXTILES PVT. LTD.,NYVIN Cable 2U,20,0,0,26,LINK PENING,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+360,75087,125892,05/12/2021,06/30/2021,MANI MORE TEXTILES PVT. LTD.,Gar Film for Battery Stand,15,0,0,26,LINK PENING,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+361,2118,125903,05/12/2021,06/30/2021,NOCIL LIMITED,CITEL TVSS,1,34350,34350,26,CITEL TVSS  NOT IN  STOCK,Asmita,SO Pending for Material not available,Mumbai,>15  Days
+362,2122,125907,05/12/2021,05/12/2021,THE BHARAT CO-OP BANK (MUMBAI) LTD,Comprehensive AMC,1,4920,4920,26,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+363,2122,125907,05/12/2021,05/12/2021,THE BHARAT CO-OP BANK (MUMBAI) LTD,Comprehensive AMC,1,4920,4920,26,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+364,2122,125907,05/12/2021,05/12/2021,THE BHARAT CO-OP BANK (MUMBAI) LTD,Comprehensive AMC,1,4920,4920,26,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+365,2123,125908,05/12/2021,05/12/2021,THE BHARAT CO-OP BANK (MUMBAI) LTD,Comprehensive AMC,1,6375,6375,26,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+366,2123,125908,05/12/2021,05/12/2021,THE BHARAT CO-OP BANK (MUMBAI) LTD,Comprehensive AMC,1,6375,6375,26,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+367,2123,125908,05/12/2021,05/12/2021,THE BHARAT CO-OP BANK (MUMBAI) LTD,Comprehensive AMC,1,6375,6375,26,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+368,2123,125908,05/12/2021,05/12/2021,THE BHARAT CO-OP BANK (MUMBAI) LTD,Comprehensive AMC,1,3275,3275,26,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+369,2123,125908,05/12/2021,05/12/2021,THE BHARAT CO-OP BANK (MUMBAI) LTD,Comprehensive AMC,1,3275,3275,26,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+370,2123,125908,05/12/2021,05/12/2021,THE BHARAT CO-OP BANK (MUMBAI) LTD,Comprehensive AMC,1,3880,3880,26,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+371,2123,125908,05/12/2021,05/12/2021,THE BHARAT CO-OP BANK (MUMBAI) LTD,Comprehensive AMC,1,3880,3880,26,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+372,2123,125908,05/12/2021,05/12/2021,THE BHARAT CO-OP BANK (MUMBAI) LTD,Comprehensive AMC,1,3880,3880,26,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+373,2123,125908,05/12/2021,05/12/2021,THE BHARAT CO-OP BANK (MUMBAI) LTD,Comprehensive AMC,1,3880,3880,26,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+374,2123,125908,05/12/2021,05/12/2021,THE BHARAT CO-OP BANK (MUMBAI) LTD,Comprehensive AMC,1,3880,3880,26,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+375,2123,125908,05/12/2021,05/12/2021,THE BHARAT CO-OP BANK (MUMBAI) LTD,Comprehensive AMC,1,3880,3880,26,,Rajiv Nambiar,SO Pending for AMC Renewal,Mumbai,>15  Days
+376,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,1,849051,849051,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+377,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,3,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+378,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Indoor units Stands,3,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+379,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,3,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+380,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,3,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+381,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Out Door Stand,3,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+382,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,3,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+383,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),GAS,80,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+384,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,80,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+385,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),GAS,75,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+386,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,75,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+387,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Cable,75,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+388,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,75,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+389,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Copper Cable,80,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+390,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,80,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+391,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Copper Cable,45,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+392,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,45,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+393,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),PIPE,1,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+394,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,1,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+395,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),PIPE,1,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+396,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,1,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+397,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),CONTROLLER,1,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+398,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,1,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+399,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,3,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+400,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,2,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+401,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Indoor units Stands,2,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+402,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,2,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+403,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,2,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+404,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,2,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+405,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,2,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+406,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),GAS,40,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+407,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,40,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+408,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),GAS,50,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+409,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,50,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+410,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Cable,50,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+411,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,50,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+412,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Copper Cable,55,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+413,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,55,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+414,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Copper Cable,20,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+415,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,20,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+416,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Drain pipe,40,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+417,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,40,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+418,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),PIPE,40,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+419,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,40,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+420,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),CONTROLLER,1,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+421,2185,125971,05/13/2021,06/30/2021,FERRERO INDIA PRIVATE LIMITED (IMSOFER DIVISION),Installation Charges,1,0,0,25,SITE NOT REDAY,Sachin Kasture,SO Pending Because of Special instrcutions from the Sales Team,Pune,>15  Days
+422,2231,126024,05/14/2021,06/30/2021,RELIANCE RETAIL LTD,Links,400,42,16800,24,,Rajiv Nambiar,SO Pending for Material not available,Mumbai,>15  Days
+423,2239,126032,05/14/2021,08/31/2021,NATIONAL INSTITUTE OF SECURITIES MARKETS,Non Comprehensive AMC,1,83500,83500,24,SO Pending for AMC Renewal,Prathmesh Jadhav,SO Pending for AMC Renewal,Mumbai,>15  Days
+424,2253,126047,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,LIEBERT 2 KVA GXTMT+ SB CX,1,24900,24900,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+425,2253,126047,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,UPS STAND,1,0,0,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+426,2253,126047,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,Cable,1,0,0,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+427,2255,126049,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,LIEBERT 2 KVA GXTMT+ SB CX,1,24900,24900,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+428,2255,126049,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,UPS STAND,1,0,0,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+429,2255,126049,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,Cable,1,0,0,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+430,2262,126056,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,200AH/12V  Quanta Battery,6,12900,77400,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+431,2262,126056,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,200AH X 6 Nos Rack,1,2800,2800,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+432,2262,126056,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,Links U-8 15 Inch,4,0,0,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+433,2262,126056,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,Links U-8  30 Inch,1,0,0,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+434,2262,126056,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,Nyvin Cable 8U,2,0,0,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+435,2263,126057,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,200AH/12V  Quanta Battery,6,12900,77400,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+436,2263,126057,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,200AH X 6 Nos Rack,1,2800,2800,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+437,2263,126057,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,Links U-8 15 Inch,4,0,0,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+438,2263,126057,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,Links U-8  30 Inch,1,0,0,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+439,2263,126057,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,Nyvin Cable 8U,2,0,0,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+440,2264,126058,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,200AH/12V  Quanta Battery,6,12900,77400,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+441,2264,126058,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,200AH X 6 Nos Rack,1,2800,2800,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+442,2264,126058,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,Links U-8 15 Inch,4,0,0,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+443,2264,126058,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,Links U-8  30 Inch,1,0,0,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+444,2264,126058,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,Nyvin Cable 8U,2,0,0,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+445,2284,126079,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,LIEBERT 2 KVA GXTMT+ SB CX,1,24900,24900,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+446,2284,126079,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,UPS STAND,1,0,0,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+447,2284,126079,05/14/2021,05/31/2021,AVENUE E-COMMERCE LIMITED,Cable,1,0,0,24,,Ratnesh Tiwari,SO Pending for Material not available,Mumbai,>15  Days
+448,2312,126108,05/15/2021,06/30/2021,COWTOWN INFOTECH SERVICES PRIVATE LIMITED,Liebert 1 KVA GXTMT+ LB CX,14,15400,523600,23,CUSTOMER SITE PAYMENT PENDING,Pritesh Shukla,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+449,2312,126108,05/15/2021,06/30/2021,COWTOWN INFOTECH SERVICES PRIVATE LIMITED,Isolation Transformer - 2 KVA,34,9760,331840,23,CUSTOMER SITE PAYMENT PENDING,Pritesh Shukla,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+450,2312,126108,05/15/2021,06/30/2021,COWTOWN INFOTECH SERVICES PRIVATE LIMITED,Isolation Transformer - 3 KVA,3,11016,33048,23,CUSTOMER SITE PAYMENT PENDING,Pritesh Shukla,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+451,2312,126108,05/15/2021,06/30/2021,COWTOWN INFOTECH SERVICES PRIVATE LIMITED,18AH X 6 Nos Rack,3,0,0,23,CUSTOMER SITE PAYMENT PENDING,Pritesh Shukla,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+452,2312,126108,05/15/2021,06/30/2021,COWTOWN INFOTECH SERVICES PRIVATE LIMITED,Links U-12 8 Inch,7,0,0,23,CUSTOMER SITE PAYMENT PENDING,Pritesh Shukla,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+453,2312,126108,05/15/2021,06/30/2021,COWTOWN INFOTECH SERVICES PRIVATE LIMITED,NYVIN Cable 12U,85,0,0,23,CUSTOMER SITE PAYMENT PENDING,Pritesh Shukla,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+454,2312,126108,05/15/2021,06/30/2021,COWTOWN INFOTECH SERVICES PRIVATE LIMITED,18AH X 3 Nos. Rack,24,0,0,23,CUSTOMER SITE PAYMENT PENDING,Pritesh Shukla,SO Pending Because of Special instrcutions from the Sales Team,Mumbai,>15  Days
+455,2495,126316,05/18/2021,06/30/2021,ULTRATECH CEMENT LIMITED,"32 amp, 2 Pole  Static Switch",1,59000,59000,20,"32 amp, 2 Pole  Static Switch NOT IN STOCK",Asmita,SO Pending for Material not available,Mumbai,>15  Days
+456,2516,126338,05/19/2021,,TATA COMMUNICATIONS LIMITED,Comprehensive AMC,1,39249.99,39249.99,19,,PUNIT SAVLA,Other Reason,Mumbai,>15  Days
+457,2471,126286,05/19/2021,06/30/2021,ELECTROCOOL ENGINEERING,Installation Charges,1,10000,10000,19,Liebert 80kVA Hipluse  NOT IN STOCK,PRASAD BASETTY,SO Pending for Material not available,Mumbai,>15  Days
+458,2471,126286,05/19/2021,06/30/2021,ELECTROCOOL ENGINEERING,Links U-12 12 Inch,22,0,0,19,Liebert 80kVA Hipluse  NOT IN STOCK,PRASAD BASETTY,SO Pending for Material not available,Mumbai,>15  Days
+459,2471,126286,05/19/2021,06/30/2021,ELECTROCOOL ENGINEERING,Links U-12 25 Inch,11,0,0,19,Liebert 80kVA Hipluse  NOT IN STOCK,PRASAD BASETTY,SO Pending for Material not available,Mumbai,>15  Days
+460,2471,126286,05/19/2021,06/30/2021,ELECTROCOOL ENGINEERING,NYVIN Cable 12U,10,0,0,19,Liebert 80kVA Hipluse  NOT IN STOCK,PRASAD BASETTY,SO Pending for Material not available,Mumbai,>15  Days
+461,2481,126298,05/19/2021,06/30/2021,TRIVENI CONTROL GEARS,"Power Contactor - 38A (AC3), 3Pole, 110V AC Coil, No Aux Contact - 3TF35000AF0",10,2156.28,21562.8,19,MATERIAL NOT INS TODK,Abhishek Nagda,Other Reason,Mumbai,>15  Days
+462,2570,126393,05/20/2021,06/30/2021,GHARDA CHEMICALS LIMITED,Solar 80W AIO standard. BSZSL 80W MAKE: BAJAJ,20,60000,1200000,18,ALL MATEIRAL NOT IN STOCK,Pritesh Shukla,SO Pending for Material not available,Mumbai,>15  Days
+463,2571,126395,05/20/2021,06/30/2021,GHARDA CHEMICALS LIMITED,16M (150-360) HIGH MAST SHAFT WITH FOUNDATION BOLTS MAKE: BAJAJ,1,145000,145000,18,ALL MATERIA NOT IN STOCK,Pritesh Shukla,SO Pending for Material not available,Mumbai,>15  Days
+464,2571,126395,05/20/2021,06/30/2021,GHARDA CHEMICALS LIMITED,Supply of LED type single dome aviation obstruction light. MAKE: BAJAJ,2,4200,8400,18,ALL MATERIA NOT IN STOCK,Pritesh Shukla,SO Pending for Material not available,Mumbai,>15  Days
+465,2571,126395,05/20/2021,06/30/2021,GHARDA CHEMICALS LIMITED,Supply of outdoor stand mounted feeder pillar with 32A TPN MCB incomer MAKE: BAJAJ,1,18000,18000,18,ALL MATERIA NOT IN STOCK,Pritesh Shukla,SO Pending for Material not available,Mumbai,>15  Days
+466,2571,126395,05/20/2021,06/30/2021,GHARDA CHEMICALS LIMITED,BJFL 250W  LED Flood Light  MAKE: BAJAJ,8,11500,92000,18,ALL MATERIA NOT IN STOCK,Pritesh Shukla,SO Pending for Material not available,Mumbai,>15  Days
+467,2637,126468,05/21/2021,05/21/2021,ARC INFOTECH PVT.LTD,Buyback 26AH/24AH/12V QUT. Battery,8,500,4000,17,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+468,2642,126474,05/21/2021,06/30/2021,SMISEN CONTROLS PVT. LTD.,"LV HRC fuse element, NH3, In: 630 A, gG, Un AC: 500 V - 3NA33720RC",3,854.85,2564.55,17,SO Pending for Material not available,Abhishek Nagda,SO Pending for Material not available,Mumbai,>15  Days
+469,2645,126478,05/21/2021,06/30/2021,UTTAM GALVA STEELS LIMITED,Liebert 3 KVA GXTMT+ LB CX,3,25000,75000,17,65AH/70AH/12V Exide Battery  NOT IN STOCK,PRASAD BASETTY,SO Pending for Material not available,Mumbai,>15  Days
+470,2645,126478,05/21/2021,06/30/2021,UTTAM GALVA STEELS LIMITED,65AH/70AH/12V Exide Battery,18,3700,66600,17,65AH/70AH/12V Exide Battery  NOT IN STOCK,PRASAD BASETTY,SO Pending for Material not available,Mumbai,>15  Days
+471,2645,126478,05/21/2021,06/30/2021,UTTAM GALVA STEELS LIMITED,100AH/70AH X 06 Nos Rack,3,0,0,17,65AH/70AH/12V Exide Battery  NOT IN STOCK,PRASAD BASETTY,SO Pending for Material not available,Mumbai,>15  Days
+472,2645,126478,05/21/2021,06/30/2021,UTTAM GALVA STEELS LIMITED,NYVIN Cable 12U,6,0,0,17,65AH/70AH/12V Exide Battery  NOT IN STOCK,PRASAD BASETTY,SO Pending for Material not available,Mumbai,>15  Days
+473,2645,126478,05/21/2021,06/30/2021,UTTAM GALVA STEELS LIMITED,Links U-12 12 Inch,12,0,0,17,65AH/70AH/12V Exide Battery  NOT IN STOCK,PRASAD BASETTY,SO Pending for Material not available,Mumbai,>15  Days
+474,2645,126478,05/21/2021,06/30/2021,UTTAM GALVA STEELS LIMITED,Links U-12 25 Inch,3,0,0,17,65AH/70AH/12V Exide Battery  NOT IN STOCK,PRASAD BASETTY,SO Pending for Material not available,Mumbai,>15  Days
+475,2684,126522,05/24/2021,05/31/2021,ROCHE DIAGNOSTICS INDIA PVT.LTD.,65AH/70AH/12V  Quanta Battery,16,4650,74400,14,It is an Out & Out Case. Kindly dispatch material on DC Copy Only.,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+476,75144,126579,05/26/2021,06/30/2021,COROMANDEL INTERNATIONAL LIMITED.,40 KVA Hipulse D,1,333550,333550,12,40 KVA Hipulse D  NOT  IN  STOCK,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+477,75144,126579,05/26/2021,06/30/2021,COROMANDEL INTERNATIONAL LIMITED.,150AH/12V Quanta Battery,29,10050,291450,12,40 KVA Hipulse D  NOT  IN  STOCK,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+478,75144,126579,05/26/2021,06/30/2021,COROMANDEL INTERNATIONAL LIMITED.,150AH x 29 Nos Rack,1,0,0,12,40 KVA Hipulse D  NOT  IN  STOCK,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+479,75144,126579,05/26/2021,06/30/2021,COROMANDEL INTERNATIONAL LIMITED.,Links U-6 25 Inch,25,0,0,12,40 KVA Hipulse D  NOT  IN  STOCK,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+480,75144,126579,05/26/2021,06/30/2021,COROMANDEL INTERNATIONAL LIMITED.,Links U-6 30 Inch,3,0,0,12,40 KVA Hipulse D  NOT  IN  STOCK,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+481,75144,126579,05/26/2021,06/30/2021,COROMANDEL INTERNATIONAL LIMITED.,NYVIN Cable 6U,10,0,0,12,40 KVA Hipulse D  NOT  IN  STOCK,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+482,75144,126579,05/26/2021,06/30/2021,COROMANDEL INTERNATIONAL LIMITED.,Gar Film for Battery Stand,20,0,0,12,40 KVA Hipulse D  NOT  IN  STOCK,Deven Gada,SO Pending for Material not available,Vapi,>15  Days
+483,2745,126587,05/26/2021,12/31/2022,BALL BEVERAGE PACKING (INDIA) PVT LTD,Repair & Service Charges,1,10160,10160,12,SERIVES PENDING,Prashant Mohite,SO Pending for Site not ready,Mumbai,>15  Days
+484,2745,126587,05/26/2021,12/31/2022,BALL BEVERAGE PACKING (INDIA) PVT LTD,Repair & Service Charges,1,10160,10160,12,SERIVES PENDING,Prashant Mohite,SO Pending for Site not ready,Mumbai,>15  Days
+485,2745,126587,05/26/2021,12/31/2022,BALL BEVERAGE PACKING (INDIA) PVT LTD,Repair & Service Charges,1,10160,10160,12,SERIVES PENDING,Prashant Mohite,SO Pending for Site not ready,Mumbai,>15  Days
+486,2745,126587,05/26/2021,12/31/2022,BALL BEVERAGE PACKING (INDIA) PVT LTD,Repair & Service Charges,1,10160,10160,12,SERIVES PENDING,Prashant Mohite,SO Pending for Site not ready,Mumbai,>15  Days
+487,2745,126587,05/26/2021,12/31/2022,BALL BEVERAGE PACKING (INDIA) PVT LTD,Repair & Service Charges,1,10160,10160,12,SERIVES PENDING,Prashant Mohite,SO Pending for Site not ready,Mumbai,>15  Days
+488,2745,126587,05/26/2021,12/31/2022,BALL BEVERAGE PACKING (INDIA) PVT LTD,Repair & Service Charges,1,10160,10160,12,SERIVES PENDING,Prashant Mohite,SO Pending for Site not ready,Mumbai,>15  Days
+489,2745,126587,05/26/2021,12/31/2022,BALL BEVERAGE PACKING (INDIA) PVT LTD,Repair & Service Charges,1,10160,10160,12,SERIVES PENDING,Prashant Mohite,SO Pending for Site not ready,Mumbai,>15  Days
+490,2745,126587,05/26/2021,12/31/2022,BALL BEVERAGE PACKING (INDIA) PVT LTD,Repair & Service Charges,1,10160,10160,12,SERIVES PENDING,Prashant Mohite,SO Pending for Site not ready,Mumbai,>15  Days
+491,2811,126659,05/27/2021,08/08/2019,AMARA RAJA BATTERIES LTD,Buy Back Old Battery,1,436800,436800,11,,Priyanka Sawant,Other Reason,Mumbai,>15  Days
+492,2866,126715,05/28/2021,,NXTDIGITAL LIMITED,150Ah X 6 Nos RacK,1,2500,2500,10,,Neeta,Other Reason,Mumbai,>15  Days
+493,2877,126727,05/28/2021,,NXTDIGITAL LIMITED,150Ah X 6 Nos RacK,1,2500,2500,10,,Neeta,Other Reason,Mumbai,>15  Days
+494,2924,126777,05/28/2021,11/16/2018,NCPL SERVICES PRIVATE LIMITED,40AH X 20 Nos Rack,1,2500,2500,10,,MANISHA JADHAV,Other Reason,Mumbai,>15  Days
+495,2941,126794,05/29/2021,,INSTAKART SERVICES PVT LTD,Rental charges,2,43200,86400,9,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+496,2941,126794,05/29/2021,,INSTAKART SERVICES PVT LTD,Rental charges,1,28602,28602,9,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+497,2941,126794,05/29/2021,,INSTAKART SERVICES PVT LTD,Rental charges,2,43200,86400,9,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+498,2941,126794,05/29/2021,,INSTAKART SERVICES PVT LTD,Rental charges,1,28602,28602,9,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+499,2941,126794,05/29/2021,,INSTAKART SERVICES PVT LTD,Rental charges,2,43200,86400,9,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+500,2941,126794,05/29/2021,,INSTAKART SERVICES PVT LTD,Rental charges,1,28602,28602,9,,Rajiv Nambiar,Other Reason,Mumbai,>15  Days
+501,2922,126775,05/29/2021,06/30/2021,APAR INDUSTRIES LTD.,200AH/12V Fire Retardant Quanta Battery,176,12600,2217600,9,,Deven Gada,Other Reason,Vapi,>15  Days
+502,2979,126833,05/30/2021,06/30/2021,GRAVITY INDIA TECHNOLOGIES PVT LTD.,Installation Charges,1,24000,24000,8,,Sachin Kudale,Other Reason,Pune,>7  Days
+503,3011,126867,05/31/2021,05/31/2021,JUPITER HOSPITAL,17AH/18AH X16 Nos Rack,1,4000,4000,7,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+504,3011,126867,05/31/2021,05/31/2021,JUPITER HOSPITAL,Battery Cap (Red),16,0,0,7,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+505,3011,126867,05/31/2021,05/31/2021,JUPITER HOSPITAL,Battery Cap (Black),16,0,0,7,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+506,3022,126878,05/31/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 25 Inch,4,0,0,7,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+507,3023,126879,05/31/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 25 Inch,3,0,0,7,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+508,3024,126880,05/31/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 25 Inch,4,0,0,7,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+509,3026,126882,05/31/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 25 Inch,4,0,0,7,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+510,3027,126883,05/31/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 25 Inch,3,0,0,7,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+511,3028,126884,05/31/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 25 Inch,3,0,0,7,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+512,3030,126886,05/31/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 25 Inch,4,0,0,7,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+513,3033,126889,05/31/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 25 Inch,4,0,0,7,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+514,3037,126893,05/31/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,LIEBERT GXT MT + CX 3 KVA XB 16A UPS SYSTEM,1,29000,29000,7,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+515,3037,126893,05/31/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,100AH/110AH/12V   Quanta Battery,6,6250,37500,7,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+516,3037,126893,05/31/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,100AH/70AH X 06 Nos Rack,1,3600,3600,7,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+517,3037,126893,05/31/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 12 Inch,4,0,0,7,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+518,3037,126893,05/31/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 25 Inch,2,0,0,7,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+519,3037,126893,05/31/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,NYVIN Cable 12U,2,0,0,7,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+520,3045,126901,05/31/2021,05/31/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,89775,89775,7,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+521,3045,126901,05/31/2021,05/31/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,89775,89775,7,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+522,3045,126901,05/31/2021,05/31/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,89775,89775,7,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+523,3048,126904,05/31/2021,06/30/2021,BALAJI HARDWARD & ELECTRICALS,"Power Contactor - 70A (AC3), 3Pole, 230V AC Coil, 2NO+2NC - 3TF47720AP0",1,5289.9,5289.9,7,SO Pending for Material not available,Umesh Sawakhande,SO Pending for Material not available,Mumbai,>7  Days
+524,3065,126922,05/31/2021,01/31/2020,ONEOTT INTERTAINMENT LIMITED,100AH X 40Nos Rack,2,10000,20000,7,,Neeta,Other Reason,Mumbai,>7  Days
+525,3065,126922,05/31/2021,01/31/2020,ONEOTT INTERTAINMENT LIMITED,NYVIN Cable 12U,10,1000,10000,7,,Neeta,Other Reason,Mumbai,>7  Days
+526,3065,126922,05/31/2021,01/31/2020,ONEOTT INTERTAINMENT LIMITED,Links U-12 12 Inch,10,0,0,7,,Neeta,Other Reason,Mumbai,>7  Days
+527,3065,126922,05/31/2021,01/31/2020,ONEOTT INTERTAINMENT LIMITED,Links U-12 25 Inch,8,0,0,7,,Neeta,Other Reason,Mumbai,>7  Days
+528,3065,126922,05/31/2021,01/31/2020,ONEOTT INTERTAINMENT LIMITED,Parallel Kit - 40KVA (ITA),2,5000,10000,7,,Neeta,Other Reason,Mumbai,>7  Days
+529,3065,126922,05/31/2021,01/31/2020,ONEOTT INTERTAINMENT LIMITED,MCB 16 AMP 4 Pole,4,10000,40000,7,,Neeta,Other Reason,Mumbai,>7  Days
+530,3065,126922,05/31/2021,01/31/2020,ONEOTT INTERTAINMENT LIMITED,SNMP Card Plus - 40 KVA,2,12000,24000,7,,Neeta,Other Reason,Mumbai,>7  Days
+531,3068,126925,05/31/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 25 Inch,4,0,0,7,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+532,3081,126938,05/31/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,2,102001,204002,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+533,3081,126938,05/31/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,2,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+534,3081,126938,05/31/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,10,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+535,3081,126938,05/31/2021,06/30/2021,AXIS BANK LTD,Battery Stand,4,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+536,3083,126940,05/31/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,3,102001,306003,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+537,3083,126940,05/31/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,3,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+538,3083,126940,05/31/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,15,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+539,3083,126940,05/31/2021,06/30/2021,AXIS BANK LTD,Battery Stand,6,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+540,3084,126941,05/31/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,4,102001,408004,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+541,3084,126941,05/31/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,4,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+542,3084,126941,05/31/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,20,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+543,3084,126941,05/31/2021,06/30/2021,AXIS BANK LTD,Battery Stand,8,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+544,3087,126945,05/31/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,2,102001,204002,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+545,3087,126945,05/31/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,2,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+546,3087,126945,05/31/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,10,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+547,3087,126945,05/31/2021,06/30/2021,AXIS BANK LTD,Battery Stand,4,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+548,3089,126947,05/31/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,3,102001,306003,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+549,3089,126947,05/31/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,3,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+550,3089,126947,05/31/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,15,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+551,3089,126947,05/31/2021,06/30/2021,AXIS BANK LTD,Battery Stand,6,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+552,3093,126951,05/31/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,3,102001,306003,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+553,3093,126951,05/31/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,3,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+554,3093,126951,05/31/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,15,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+555,3093,126951,05/31/2021,06/30/2021,AXIS BANK LTD,Battery Stand,6,0,0,7,,Niraj Shah,Other Reason,Mumbai,>7  Days
+556,3134,126995,05/31/2021,,FELDER WOODWORKING MACHINES PRIVATE LIMITED,Links U-2 25 Inch,5,0,0,7,,MANISHA JADHAV,Other Reason,Mumbai,>7  Days
+557,3134,126995,05/31/2021,,FELDER WOODWORKING MACHINES PRIVATE LIMITED,NYVIN Cable 2U,8,0,0,7,,MANISHA JADHAV,Other Reason,Mumbai,>7  Days
+558,3150,127014,06/01/2021,06/15/2021,IIFL FINANCE LIMITED,2.5 KVA Inverter,1,9850,9850,6,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+559,3150,127014,06/01/2021,06/15/2021,IIFL FINANCE LIMITED,150AH/12V Quanta Battery,2,10950,21900,6,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+560,3150,127014,06/01/2021,06/15/2021,IIFL FINANCE LIMITED,150Ah X 2 Nos Rack,1,1500,1500,6,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+561,3150,127014,06/01/2021,06/15/2021,IIFL FINANCE LIMITED,Links U-12 25 Inch,1,0,0,6,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+562,3150,127014,06/01/2021,06/15/2021,IIFL FINANCE LIMITED,NYVIN Cable 12U,2,0,0,6,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+563,3150,127014,06/01/2021,06/15/2021,IIFL FINANCE LIMITED,3 Pin Top (15 AMP),1,0,0,6,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+564,3150,127014,06/01/2021,06/15/2021,IIFL FINANCE LIMITED,2.5 SQ MM CABLE,3,0,0,6,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+565,3150,127014,06/01/2021,06/15/2021,IIFL FINANCE LIMITED,Freight Charges,1,1500,1500,6,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+566,3162,127026,06/01/2021,06/15/2021,LABX,Dismental - Reinstalltion charges,1,5000,5000,6,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+567,3212,127079,06/01/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,4,102001,408004,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+568,3212,127079,06/01/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,4,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+569,3212,127079,06/01/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,20,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+570,3212,127079,06/01/2021,06/30/2021,AXIS BANK LTD,Battery Stand,8,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+571,3213,127080,06/01/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,2,102001,204002,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+572,3213,127080,06/01/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,2,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+573,3213,127080,06/01/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,10,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+574,3213,127080,06/01/2021,06/30/2021,AXIS BANK LTD,Battery Stand,4,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+575,3214,127081,06/01/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,4,102001,408004,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+576,3214,127081,06/01/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,4,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+577,3214,127081,06/01/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,20,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+578,3214,127081,06/01/2021,06/30/2021,AXIS BANK LTD,Battery Stand,8,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+579,3215,127082,06/01/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,3,102001,306003,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+580,3215,127082,06/01/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,3,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+581,3215,127082,06/01/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,15,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+582,3215,127082,06/01/2021,06/30/2021,AXIS BANK LTD,Battery Stand,6,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+583,3216,127083,06/01/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,3,102001,306003,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+584,3216,127083,06/01/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,3,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+585,3216,127083,06/01/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,15,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+586,3216,127083,06/01/2021,06/30/2021,AXIS BANK LTD,Battery Stand,6,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+587,3179,127044,06/01/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,3,102001,306003,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+588,3179,127044,06/01/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,3,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+589,3179,127044,06/01/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,15,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+590,3179,127044,06/01/2021,06/30/2021,AXIS BANK LTD,Battery Stand,6,0,0,6,,Niraj Shah,Other Reason,Mumbai,>7  Days
+591,3182,127047,06/02/2021,06/30/2021,LIVEPOWER SERVICES PRIVATE LIMITED,26AH/40AH X 16 Nos Rack,1,0,0,5,,Sachin Kudale,Other Reason,Pune,>7  Days
+592,3194,127059,06/02/2021,06/30/2021,SCHNEIDER ELECTRIC INDIA PVT LTD,Rack,1,0,0,5,RACK PENDING,Amar chavan,SO Pending for Material not available,Mumbai,>7  Days
+593,3194,127059,06/02/2021,06/30/2021,SCHNEIDER ELECTRIC INDIA PVT LTD,Buyback 200AH/12V Battery,16,0,0,5,RACK PENDING,Amar chavan,SO Pending for Material not available,Mumbai,>7  Days
+594,3197,127062,06/02/2021,04/16/2021,AVENUE E-COMMERCE LIMITED,Links U-8 15 Inch,4,0,0,5,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+595,3197,127062,06/02/2021,04/16/2021,AVENUE E-COMMERCE LIMITED,Links U-8  30 Inch,1,0,0,5,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+596,3198,127063,06/02/2021,04/16/2021,AVENUE E-COMMERCE LIMITED,Links U-8 15 Inch,4,0,0,5,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+597,3199,127064,06/02/2021,04/16/2021,AVENUE E-COMMERCE LIMITED,Links U-8 15 Inch,4,0,0,5,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+598,3199,127064,06/02/2021,04/16/2021,AVENUE E-COMMERCE LIMITED,Links U-8  30 Inch,1,0,0,5,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+599,3200,127065,06/02/2021,04/16/2021,AVENUE E-COMMERCE LIMITED,Links U-8 15 Inch,4,0,0,5,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+600,3206,127071,06/02/2021,06/05/2021,AVENUE SUPERMARTS LTD,40AH/42AH/12V  Quanta Battery,20,3225,64500,5,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+601,3211,127078,06/02/2021,06/30/2021,BLUE LINE INFOTECH,100AH/110AH/12V   Quanta Battery,2000,6050,12100000,5,,Asmita,Other Reason,Mumbai,>7  Days
+602,3211,127078,06/02/2021,06/30/2021,BLUE LINE INFOTECH,Freight Charges,1,64000,64000,5,,Asmita,Other Reason,Mumbai,>7  Days
+603,3168,127032,06/02/2021,06/13/2021,KARTIK DAFTARI,11000i/ 180V Mictrotek Inverter (1x1),1,70000,70000,5,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+604,3168,127032,06/02/2021,06/13/2021,KARTIK DAFTARI,200Ah/12V Quanta Tubular Battery,15,12000,180000,5,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+605,3168,127032,06/02/2021,06/13/2021,KARTIK DAFTARI,200AH X 16 Nos Rack,1,5000,5000,5,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+606,3168,127032,06/02/2021,06/13/2021,KARTIK DAFTARI,Links U-10 12 Inch,8,0,0,5,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+607,3168,127032,06/02/2021,06/13/2021,KARTIK DAFTARI,Links U-10 25  Inch,7,0,0,5,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+608,3168,127032,06/02/2021,06/13/2021,KARTIK DAFTARI,Nyvin Cable 10U,5,0,0,5,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+609,3289,127160,06/03/2021,06/15/2021,IIFL FINANCE LIMITED,Visiting Charges,1,1500,1500,4,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+610,3289,127160,06/03/2021,06/15/2021,IIFL FINANCE LIMITED,Repair & Service Charges,1,3800,3800,4,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+611,3300,127171,06/03/2021,,SUJAY ENGINEERING PROJECTS,MS STEEL TOWER PARTS,19.63,69300,1360359,4,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+612,3300,127171,06/03/2021,,SUJAY ENGINEERING PROJECTS,HI STEEL TOWER PARTS,84.52,72450,6123474,4,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+613,3300,127171,06/03/2021,,SUJAY ENGINEERING PROJECTS,Nut Bolts,4.69,91350,428431.5,4,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+614,3300,127171,06/03/2021,,SUJAY ENGINEERING PROJECTS,Freight Charges,1,245696.85,245696.85,4,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+615,3313,127184,06/03/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,4,102001,408004,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+616,3313,127184,06/03/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,4,0,0,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+617,3313,127184,06/03/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,20,0,0,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+618,3313,127184,06/03/2021,06/30/2021,AXIS BANK LTD,Battery Stand,8,0,0,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+619,3314,127185,06/03/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,3,102001,306003,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+620,3314,127185,06/03/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,3,0,0,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+621,3314,127185,06/03/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,15,0,0,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+622,3314,127185,06/03/2021,06/30/2021,AXIS BANK LTD,Battery Stand,3,0,0,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+623,3315,127186,06/03/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,4,102001,408004,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+624,3315,127186,06/03/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,4,0,0,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+625,3315,127186,06/03/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,15,0,0,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+626,3315,127186,06/03/2021,06/30/2021,AXIS BANK LTD,Battery Stand,3,0,0,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+627,3316,127187,06/03/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,3,102001,306003,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+628,3316,127187,06/03/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,3,0,0,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+629,3316,127187,06/03/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,15,0,0,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+630,3316,127187,06/03/2021,06/30/2021,AXIS BANK LTD,Battery Stand,3,0,0,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+631,3317,127188,06/03/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,3,102001,306003,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+632,3317,127188,06/03/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,3,0,0,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+633,3317,127188,06/03/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,15,0,0,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+634,3317,127188,06/03/2021,06/30/2021,AXIS BANK LTD,Battery Stand,3,0,0,4,,Niraj Shah,Other Reason,Mumbai,>7  Days
+635,3329,127200,06/03/2021,01/01/2022,RUSH NETWORKS LLP,Comprehensive AMC,1,10125,10125,4,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+636,3329,127200,06/03/2021,01/01/2022,RUSH NETWORKS LLP,Comprehensive AMC,1,15000,15000,4,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+637,3329,127200,06/03/2021,01/01/2022,RUSH NETWORKS LLP,Comprehensive AMC,1,10125,10125,4,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+638,3329,127200,06/03/2021,01/01/2022,RUSH NETWORKS LLP,Comprehensive AMC,1,15000,15000,4,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+639,3329,127200,06/03/2021,01/01/2022,RUSH NETWORKS LLP,Comprehensive AMC,1,10125,10125,4,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+640,3329,127200,06/03/2021,01/01/2022,RUSH NETWORKS LLP,Comprehensive AMC,1,15000,15000,4,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+641,3336,127207,06/04/2021,01/15/2021,ALOKE ALLOYS,Outgoing 10/16A SP MCBs - C Curve - 5SL41107RC,10,151,1510,3,,Abhishek Nagda,Other Reason,Mumbai,>7  Days
+642,3336,127207,06/04/2021,01/15/2021,ALOKE ALLOYS,"MCB 20A (2 POLE ),MCB 10KA 2P 20 C CURVE - 5SL42207RC",2,395,790,3,,Abhishek Nagda,Other Reason,Mumbai,>7  Days
+643,3337,127208,06/04/2021,06/30/2021,TRANS ENTERPRISES PVT LTD,"Liebert Super 600D, 3 X 1, 20 kVA UPS",1,411000,411000,3,PI SEND TO CUSTOMER FOR 10 % ADVANCED PAYMENT,POONAM KAMBLE,Other Reason,Mumbai,>7  Days
+644,3337,127208,06/04/2021,06/30/2021,TRANS ENTERPRISES PVT LTD,100AH/110AH/12V   Quanta Battery,32,6250,200000,3,PI SEND TO CUSTOMER FOR 10 % ADVANCED PAYMENT,POONAM KAMBLE,Other Reason,Mumbai,>7  Days
+645,3337,127208,06/04/2021,06/30/2021,TRANS ENTERPRISES PVT LTD,Modify Rack,1,18000,18000,3,PI SEND TO CUSTOMER FOR 10 % ADVANCED PAYMENT,POONAM KAMBLE,Other Reason,Mumbai,>7  Days
+646,3337,127208,06/04/2021,06/30/2021,TRANS ENTERPRISES PVT LTD,Links U-8 12  Inch,20,0,0,3,PI SEND TO CUSTOMER FOR 10 % ADVANCED PAYMENT,POONAM KAMBLE,Other Reason,Mumbai,>7  Days
+647,3337,127208,06/04/2021,06/30/2021,TRANS ENTERPRISES PVT LTD,Links U-8 25 Inch,12,0,0,3,PI SEND TO CUSTOMER FOR 10 % ADVANCED PAYMENT,POONAM KAMBLE,Other Reason,Mumbai,>7  Days
+648,3337,127208,06/04/2021,06/30/2021,TRANS ENTERPRISES PVT LTD,Nyvin Cable 8U,15,0,0,3,PI SEND TO CUSTOMER FOR 10 % ADVANCED PAYMENT,POONAM KAMBLE,Other Reason,Mumbai,>7  Days
+649,3337,127208,06/04/2021,06/30/2021,TRANS ENTERPRISES PVT LTD,Isolation Transformer - 20 KVA,1,0,0,3,PI SEND TO CUSTOMER FOR 10 % ADVANCED PAYMENT,POONAM KAMBLE,Other Reason,Mumbai,>7  Days
+650,3337,127208,06/04/2021,06/30/2021,TRANS ENTERPRISES PVT LTD,Isolation Transformer - 20 KVA,1,0,0,3,PI SEND TO CUSTOMER FOR 10 % ADVANCED PAYMENT,POONAM KAMBLE,Other Reason,Mumbai,>7  Days
+651,3338,127209,06/04/2021,06/30/2021,TRANS ENTERPRISES PVT LTD,"Liebert Super 600D, 3 X 1, 20 kVA UPS",1,405000,405000,3,PI SEND TO CUSTOMER FOR 10 % ADVANCED PAYMENT,POONAM KAMBLE,Other Reason,Mumbai,>7  Days
+652,3338,127209,06/04/2021,06/30/2021,TRANS ENTERPRISES PVT LTD,40AH/42AH/12V  Quanta Battery,32,3559.38,113900,3,PI SEND TO CUSTOMER FOR 10 % ADVANCED PAYMENT,POONAM KAMBLE,Other Reason,Mumbai,>7  Days
+653,3338,127209,06/04/2021,06/30/2021,TRANS ENTERPRISES PVT LTD,Modify Rack,1,16000,16000,3,PI SEND TO CUSTOMER FOR 10 % ADVANCED PAYMENT,POONAM KAMBLE,Other Reason,Mumbai,>7  Days
+654,3338,127209,06/04/2021,06/30/2021,TRANS ENTERPRISES PVT LTD,Links U-8 12  Inch,20,0,0,3,PI SEND TO CUSTOMER FOR 10 % ADVANCED PAYMENT,POONAM KAMBLE,Other Reason,Mumbai,>7  Days
+655,3338,127209,06/04/2021,06/30/2021,TRANS ENTERPRISES PVT LTD,Links U-8 25 Inch,12,0,0,3,PI SEND TO CUSTOMER FOR 10 % ADVANCED PAYMENT,POONAM KAMBLE,Other Reason,Mumbai,>7  Days
+656,3338,127209,06/04/2021,06/30/2021,TRANS ENTERPRISES PVT LTD,Nyvin Cable 8U,15,0,0,3,PI SEND TO CUSTOMER FOR 10 % ADVANCED PAYMENT,POONAM KAMBLE,Other Reason,Mumbai,>7  Days
+657,3338,127209,06/04/2021,06/30/2021,TRANS ENTERPRISES PVT LTD,Isolation Transformer,1,0,0,3,PI SEND TO CUSTOMER FOR 10 % ADVANCED PAYMENT,POONAM KAMBLE,Other Reason,Mumbai,>7  Days
+658,3338,127209,06/04/2021,06/30/2021,TRANS ENTERPRISES PVT LTD,Isolation Transformer,1,0,0,3,PI SEND TO CUSTOMER FOR 10 % ADVANCED PAYMENT,POONAM KAMBLE,Other Reason,Mumbai,>7  Days
+659,3354,127225,06/04/2021,06/21/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,5271.33,5271.33,3,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+660,3354,127225,06/04/2021,06/21/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,7965.56,7965.56,3,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+661,3354,127225,06/04/2021,06/21/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,5974.17,5974.17,3,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+662,3354,127225,06/04/2021,06/21/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,5271.33,5271.33,3,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+663,3354,127225,06/04/2021,06/21/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,7965.56,7965.56,3,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+664,3354,127225,06/04/2021,06/21/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,5974.17,5974.17,3,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+665,3377,127248,06/04/2021,06/30/2021,BALAJI HARDWARD & ELECTRICALS,PVC COP FLEX CABLE 2CX1.5 SQMM,100,32.81,3281,3,,Umesh Sawakhande,SO Pending for Material not available,Mumbai,>7  Days
+666,3377,127248,06/04/2021,06/30/2021,BALAJI HARDWARD & ELECTRICALS,PVC COP FLEX CABLE 2CX1.5 SQMM,300,32.81,9843,3,,Umesh Sawakhande,SO Pending for Material not available,Mumbai,>7  Days
+667,3377,127248,06/04/2021,06/30/2021,BALAJI HARDWARD & ELECTRICALS,PVC COP FLEX CABLE 4CX1.5 SQMM,200,60.16,12032,3,,Umesh Sawakhande,SO Pending for Material not available,Mumbai,>7  Days
+668,3377,127248,06/04/2021,06/30/2021,BALAJI HARDWARD & ELECTRICALS,PVC COP FLEX CABLE 4CX4 SQMM,200,146.64,29328,3,,Umesh Sawakhande,SO Pending for Material not available,Mumbai,>7  Days
+669,3377,127248,06/04/2021,06/30/2021,BALAJI HARDWARD & ELECTRICALS,PVC COP FLEX CABLE 4CX6 SQMM,100,217.14,21714,3,,Umesh Sawakhande,SO Pending for Material not available,Mumbai,>7  Days
+670,3377,127248,06/04/2021,06/30/2021,BALAJI HARDWARD & ELECTRICALS,PVC COP FLEX CABLE 2CX1.0 SQMM,100,24.32,2432,3,,Umesh Sawakhande,SO Pending for Material not available,Mumbai,>7  Days
+671,3322,127193,06/04/2021,06/30/2021,AXIS BANK LTD,Liebert 3 KVA GXTMT+ LB CX,3,102001,306003,3,,Niraj Shah,Other Reason,Mumbai,>7  Days
+672,3322,127193,06/04/2021,06/30/2021,AXIS BANK LTD,72V/25AH  Li-Ion Enertect Vision Rocket Battery,3,0,0,3,,Niraj Shah,Other Reason,Mumbai,>7  Days
+673,3322,127193,06/04/2021,06/30/2021,AXIS BANK LTD,NYVIN Cable 12U,15,0,0,3,,Niraj Shah,Other Reason,Mumbai,>7  Days
+674,3322,127193,06/04/2021,06/30/2021,AXIS BANK LTD,Battery Stand,6,0,0,3,,Niraj Shah,Other Reason,Mumbai,>7  Days
+675,3326,127197,06/04/2021,07/31/2021,DECCAN FINE CHEMICALS (INDIA) PVT LTD,40 KVA Hipulse D,2,622900,1245800,3,MATEREIL NOT IN STOCK,Amar chavan,SO Pending for Material not available,Mumbai,>7  Days
+676,3326,127197,06/04/2021,07/31/2021,DECCAN FINE CHEMICALS (INDIA) PVT LTD,120AH Quanta Battery,58,0,0,3,MATEREIL NOT IN STOCK,Amar chavan,SO Pending for Material not available,Mumbai,>7  Days
+677,3326,127197,06/04/2021,07/31/2021,DECCAN FINE CHEMICALS (INDIA) PVT LTD,CITEL TVSS,1,0,0,3,MATEREIL NOT IN STOCK,Amar chavan,SO Pending for Material not available,Mumbai,>7  Days
+678,3326,127197,06/04/2021,07/31/2021,DECCAN FINE CHEMICALS (INDIA) PVT LTD,Modify Rack,1,0,0,3,MATEREIL NOT IN STOCK,Amar chavan,SO Pending for Material not available,Mumbai,>7  Days
+679,3326,127197,06/04/2021,07/31/2021,DECCAN FINE CHEMICALS (INDIA) PVT LTD,Gar Film for Battery Stand,1,0,0,3,MATEREIL NOT IN STOCK,Amar chavan,SO Pending for Material not available,Mumbai,>7  Days
+680,3326,127197,06/04/2021,07/31/2021,DECCAN FINE CHEMICALS (INDIA) PVT LTD,Links U-8 12  Inch,50,0,0,3,MATEREIL NOT IN STOCK,Amar chavan,SO Pending for Material not available,Mumbai,>7  Days
+681,3326,127197,06/04/2021,07/31/2021,DECCAN FINE CHEMICALS (INDIA) PVT LTD,Links U-8 25 Inch,20,0,0,3,MATEREIL NOT IN STOCK,Amar chavan,SO Pending for Material not available,Mumbai,>7  Days
+682,3326,127197,06/04/2021,07/31/2021,DECCAN FINE CHEMICALS (INDIA) PVT LTD,Nyvin Cable 8U,30,0,0,3,MATEREIL NOT IN STOCK,Amar chavan,SO Pending for Material not available,Mumbai,>7  Days
+683,3444,127319,06/04/2021,03/05/2020,FRONTIER BUSINESS SYSTEMS PVT.LTD,Buyback of OLD  UPS,1,18000,18000,3,,Sachin Kudale,Other Reason,Pune,>7  Days
+684,3444,127319,06/04/2021,03/05/2020,FRONTIER BUSINESS SYSTEMS PVT.LTD,Buyback 18AH/17AH/12V Battery,32,0,0,3,,Sachin Kudale,Other Reason,Pune,>7  Days
+685,3447,127322,06/05/2021,06/04/2021,A.B. POWER SYSTEMS,Buyback 40AH/42AH/12V  Battery,36,950,34200,2,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+686,3447,127322,06/05/2021,06/04/2021,A.B. POWER SYSTEMS,Buyback 7AH/12V Battery,2,100,200,2,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+687,3447,127322,06/05/2021,06/04/2021,A.B. POWER SYSTEMS,Buyback 12AH/12V Battery,8,200,1600,2,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+688,3447,127322,06/05/2021,06/04/2021,A.B. POWER SYSTEMS,Buyback 9AH\12V Exide SMF Battery,2,150,300,2,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+689,3457,127332,06/05/2021,06/30/2021,SUNTECK REALTY HOLDINGS PVT. LTD.,HP LAJERJET PRO MFP 126NW,1,16000,16000,2,,PRASAD BASETTY,Other Reason,Mumbai,>7  Days
+690,3459,127334,06/05/2021,06/30/2021,ULTRATECH CEMENT LIMITED,Liebert 1 KVA GXTMT+ LB CX,1,18550,18550,2,,Asmita,Other Reason,Mumbai,>7  Days
+691,3459,127334,06/05/2021,06/30/2021,ULTRATECH CEMENT LIMITED,65AH/70AH/12V  Quanta Battery,3,5450,16350,2,,Asmita,Other Reason,Mumbai,>7  Days
+692,3459,127334,06/05/2021,06/30/2021,ULTRATECH CEMENT LIMITED,100AH/70AH X 3 Nos Rack,1,0,0,2,,Asmita,Other Reason,Mumbai,>7  Days
+693,3459,127334,06/05/2021,06/30/2021,ULTRATECH CEMENT LIMITED,Links U-12 25 Inch,2,0,0,2,,Asmita,Other Reason,Mumbai,>7  Days
+694,3459,127334,06/05/2021,06/30/2021,ULTRATECH CEMENT LIMITED,NYVIN Cable 12U,2,0,0,2,,Asmita,Other Reason,Mumbai,>7  Days
+695,3460,127335,06/05/2021,06/30/2021,ULTRATECH CEMENT LIMITED,Liebert 1 KVA GXTMT+ LB CX,1,18550,18550,2,,Asmita,Other Reason,Mumbai,>7  Days
+696,3460,127335,06/05/2021,06/30/2021,ULTRATECH CEMENT LIMITED,65AH/70AH/12V  Quanta Battery,3,5450,16350,2,,Asmita,Other Reason,Mumbai,>7  Days
+697,3460,127335,06/05/2021,06/30/2021,ULTRATECH CEMENT LIMITED,100AH/70AH X 3 Nos Rack,1,0,0,2,,Asmita,Other Reason,Mumbai,>7  Days
+698,3460,127335,06/05/2021,06/30/2021,ULTRATECH CEMENT LIMITED,Links U-12 25 Inch,2,0,0,2,,Asmita,Other Reason,Mumbai,>7  Days
+699,3460,127335,06/05/2021,06/30/2021,ULTRATECH CEMENT LIMITED,NYVIN Cable 12U,2,0,0,2,,Asmita,Other Reason,Mumbai,>7  Days
+700,3393,127266,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Liebert 2 KVA GXTMT+ LB CX,1,19800,19800,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+701,3393,127266,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,65AH/70AH/12V Exide Battery,6,4150,24900,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+702,3393,127266,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,100AH/70AH X 06 Nos Rack,1,1495,1495,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+703,3393,127266,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 12 Inch,4,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+704,3393,127266,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 25 Inch,5,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+705,3393,127266,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,NYVIN Cable 12U,2,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+706,3408,127282,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Liebert 2 KVA GXTMT+ LB CX,1,19800,19800,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+707,3408,127282,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,65AH/70AH/12V Exide Battery,6,4150,24900,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+708,3408,127282,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,100AH/70AH X 06 Nos Rack,1,1495,1495,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+709,3408,127282,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 12 Inch,4,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+710,3408,127282,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 25 Inch,5,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+711,3408,127282,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,NYVIN Cable 12U,2,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+712,3409,127283,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Liebert 2 KVA GXTMT+ LB CX,1,19800,19800,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+713,3409,127283,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,65AH/70AH/12V Exide Battery,6,4150,24900,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+714,3409,127283,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,100AH/70AH X 06 Nos Rack,1,1495,1495,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+715,3409,127283,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 12 Inch,4,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+716,3409,127283,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 25 Inch,5,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+717,3409,127283,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,NYVIN Cable 12U,2,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+718,3410,127284,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Liebert 2 KVA GXTMT+ LB CX,1,19800,19800,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+719,3410,127284,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,65AH/70AH/12V Exide Battery,6,4150,24900,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+720,3410,127284,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,100AH/70AH X 06 Nos Rack,1,1495,1495,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+721,3410,127284,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 12 Inch,4,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+722,3410,127284,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 25 Inch,5,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+723,3410,127284,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,NYVIN Cable 12U,2,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+724,3411,127285,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Liebert 2 KVA GXTMT+ LB CX,1,19800,19800,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+725,3411,127285,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,65AH/70AH/12V Exide Battery,6,4150,24900,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+726,3411,127285,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,100AH/70AH X 06 Nos Rack,1,1495,1495,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+727,3411,127285,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 12 Inch,4,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+728,3411,127285,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 25 Inch,5,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+729,3411,127285,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,NYVIN Cable 12U,2,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+730,3412,127286,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Liebert 2 KVA GXTMT+ LB CX,1,19800,19800,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+731,3412,127286,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,65AH/70AH/12V Exide Battery,6,4150,24900,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+732,3412,127286,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,100AH/70AH X 06 Nos Rack,1,1495,1495,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+733,3412,127286,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 12 Inch,4,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+734,3412,127286,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Links U-12 25 Inch,5,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+735,3412,127286,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,NYVIN Cable 12U,2,0,0,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+736,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,Liebert 1 KVA GXT MT+CX SB,1,14667,14667,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+737,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,40AH/42AH/12V  Quanta Battery,15,3225,48375,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+738,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,Liebert 10 KVA GXTMT PLUS 1PH/1PH,1,118500,118500,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+739,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,40AH/42AH/12V  Quanta Battery,20,3225,64500,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+740,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,26AH/40AH X 16 Nos Rack,1,0,0,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+741,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,Links U-10 12 Inch,8,0,0,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+742,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,Links U-10 25  Inch,7,0,0,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+743,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,Nyvin Cable 10U,1,0,0,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+744,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,Isolation Transformer - 10 KVA,1,0,0,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+745,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,Snmpcard GXT-MT + FOR CX UPS,1,0,0,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+746,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,26AH/40AH X 20 Nos Rack,1,0,0,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+747,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,Links U-10 12 Inch,10,0,0,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+748,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,Links U-10 25  Inch,9,0,0,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+749,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,Nyvin Cable 10U,10,0,0,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+750,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,Stand For 10 Kva Gxtmt + Plus ups,1,0,0,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+751,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,UPS STAND,1,0,0,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+752,3413,127287,06/05/2021,01/27/2020,AVENUE SUPERMARTS LTD,Cable,1,0,0,2,,Ratnesh Tiwari,Other Reason,Mumbai,>7  Days
+753,3421,127296,06/05/2021,06/11/2021,SATYAM PHARMA-CHEM PVT. LTD,Liebert 3 KVA GXTMT+ SB CX,1,32000,32000,2,,Asmita,Other Reason,Mumbai,>7  Days
+754,3421,127296,06/05/2021,06/11/2021,SATYAM PHARMA-CHEM PVT. LTD,Stabilizer 6 KVA,1,9000,9000,2,,Asmita,Other Reason,Mumbai,>7  Days
+755,3421,127296,06/05/2021,06/11/2021,SATYAM PHARMA-CHEM PVT. LTD,"1-P, 10KA ACTVSS",1,6000,6000,2,,Asmita,Other Reason,Mumbai,>7  Days
+756,3436,127311,06/05/2021,06/30/2021,FINCARE SMALL FINANCE BANK LIMITED,Liebert 2 KVA GXTMT+ LB CX,1,19800,19800,2,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+757,3441,127316,06/05/2021,10/02/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,5750,5750,2,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+758,3441,127316,06/05/2021,10/02/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,9750,9750,2,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+759,3441,127316,06/05/2021,10/02/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,11250,11250,2,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+760,3441,127316,06/05/2021,10/02/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,5750,5750,2,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+761,3441,127316,06/05/2021,10/02/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,9750,9750,2,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+762,3441,127316,06/05/2021,10/02/2021,RUSH NETWORKS LLP,Comprehensive AMC,1,11250,11250,2,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+763,3442,127317,06/05/2021,06/15/2021,IIFL FINANCE LIMITED,Visiting Charges,1,1800,1800,2,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+764,3485,127362,06/05/2021,,SB INFOTECH,Comprehensive AMC,1,25000,25000,2,,Sachin Kudale,Other Reason,Pune,>7  Days
+765,3485,127362,06/05/2021,,SB INFOTECH,Comprehensive AMC,1,25000,25000,2,,Sachin Kudale,Other Reason,Pune,>7  Days
+766,3486,127363,06/05/2021,,SB INFOTECH,Comprehensive AMC,1,10000,10000,2,,Sachin Kudale,Other Reason,Pune,>7  Days
+767,3486,127363,06/05/2021,,SB INFOTECH,Comprehensive AMC,1,10000,10000,2,,Sachin Kudale,Other Reason,Pune,>7  Days
+768,3439,127314,06/06/2021,06/30/2021,TOTAL SOLUTIONS,150Ah X 6 Nos RacK,1,4000,4000,1,,Asmita,Other Reason,Mumbai,>7  Days
+769,3467,127342,06/07/2021,06/30/2021,HOLY SPIRIT HOSPITAL,Adapter,1,600,600,,SO Pending for Material not available,POONAM KAMBLE,SO Pending for Material not available,Mumbai,>7  Days
+770,3479,127355,06/07/2021,06/30/2021,TEAM ONE TECH SOLUTIONS LLP,10 KVA APC SURT,1,109000,109000,,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+771,3479,127355,06/07/2021,06/30/2021,TEAM ONE TECH SOLUTIONS LLP,65AH/70AH/12V Exide Battery,32,4000,128000,,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+772,3479,127355,06/07/2021,06/30/2021,TEAM ONE TECH SOLUTIONS LLP,Links U-10 25  Inch,31,0,0,,,Rajiv Nambiar,Other Reason,Mumbai,>7  Days
+773,3483,127360,06/07/2021,05/31/2021,MECHATRONICS SYSTEMS PRIVATE LIMITED,LIEBERT GXT MT + CX 3 KVA XB 16A UPS SYSTEM,1,33000,33000,,,Sachin Kasture,Other Reason,Pune,>7  Days
+774,3483,127360,06/07/2021,05/31/2021,MECHATRONICS SYSTEMS PRIVATE LIMITED,100AH/70AH X 06 Nos Rack,1,1000,1000,,,Sachin Kasture,Other Reason,Pune,>7  Days
+775,3483,127360,06/07/2021,05/31/2021,MECHATRONICS SYSTEMS PRIVATE LIMITED,NYVIN Cable 12U,4,0,0,,,Sachin Kasture,Other Reason,Pune,>7  Days
+776,3483,127360,06/07/2021,05/31/2021,MECHATRONICS SYSTEMS PRIVATE LIMITED,Links U-12 25 Inch,5,0,0,,,Sachin Kasture,Other Reason,Pune,>7  Days
+777,3487,127364,06/07/2021,,MATCHWELL ENGINEERING PVT LTD,Comprehensive AMC,1,10500,10500,,,Sachin Kudale,Other Reason,Pune,>7  Days

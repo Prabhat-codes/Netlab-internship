@@ -1,0 +1,15 @@
+
+{
+	group : "column operations",
+	task : "add",
+	name : "Ageing",
+	position:{
+		col : ""
+		deet : "before" #after, beg, end
+	}
+	config : {
+		condition: [{left_cond:0, left_sign:"<", middle:"#Pending Days#", right_sign:"<=", right_cond:10, val:"0 to 10"}, {left_cond:10, left_sign:"<", middle:"#Pending Days#", right_sign:"<=", right_cond:30, val:"10 to 30"}, {left_cond:30, left_sign:"<", middle:"#Pending Days#", right_sign:"<=", right_cond:45, val:"30 to 45"}, {left_cond:45, left_sign:"<", middle:"#Pending Days#", right_sign:"NA", right_cond:NA, val:"greater than 45"}],
+		math: "NA",
+		condmath: "NA"
+	}
+}

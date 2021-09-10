@@ -1,0 +1,11 @@
+cond={
+	"group" : "pivot operations",
+	"task" : "create pivot",
+	"config" : {
+		"column" : "", #choose column 
+		"indexes" : ["", ""]  #list for nested pivots,
+		"value" : "" #choose column for value,
+		"agg_func" : "", #sum, count, mean, distinct count
+		"grand total column and row" : True #True, False
+	}
+}

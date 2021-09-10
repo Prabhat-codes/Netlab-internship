@@ -1,0 +1,8 @@
+{
+	"group" : "row operations",
+	"task" : "add",
+	"config" : {
+		"column_list" : [],
+		"function" : sum #can contain average, mode, median, variance, std deviation
+	}
+}

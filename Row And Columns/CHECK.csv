@@ -1,0 +1,10 @@
+#,Unnamed: 0,SO Number,Document Internal ID,Posting Date,Execution Date,Customer Name,ItemName,Pending Qty,Unit Amt,Total Amt,Pending Days,Status,Sales Employee Name,SO Pending,Order Branch Name,Aging Range
+773,772.0,3483.0,127360.0,06/07/2021,05/31/2021,MECHATRONICS SYSTEMS PRIVATE LIMITED,LIEBERT GXT MT + CX 3 KVA XB 16A UPS SYSTEM,1.0,33000.0,33000.0,,,Sachin Kasture,Other Reason,Pune,>7  Days
+774,773.0,3483.0,127360.0,06/07/2021,05/31/2021,MECHATRONICS SYSTEMS PRIVATE LIMITED,100AH/70AH X 06 Nos Rack,1.0,1000.0,1000.0,,,Sachin Kasture,Other Reason,Pune,>7  Days
+775,774.0,3483.0,127360.0,06/07/2021,05/31/2021,MECHATRONICS SYSTEMS PRIVATE LIMITED,NYVIN Cable 12U,4.0,0.0,0.0,,,Sachin Kasture,Other Reason,Pune,>7  Days
+776,775.0,3483.0,127360.0,06/07/2021,05/31/2021,MECHATRONICS SYSTEMS PRIVATE LIMITED,Links U-12 25 Inch,5.0,0.0,0.0,,,Sachin Kasture,Other Reason,Pune,>7  Days
+777,776.0,3487.0,127364.0,06/07/2021,,MATCHWELL ENGINEERING PVT LTD,Comprehensive AMC,1.0,10500.0,10500.0,,,Sachin Kudale,Other Reason,Pune,>7  Days
+variance,,,,,,,,3.8,201050000.0,201050000.0,,,,,,
+sum,,,,,,,,12.0,44500.0,44500.0,,,,,,
+min,,,,,,,,1.0,0.0,0.0,,,,,,
+max,,,,,,,,5.0,33000.0,33000.0,,,,,,

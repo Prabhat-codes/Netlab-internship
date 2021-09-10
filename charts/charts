@@ -1,0 +1,12 @@
+{
+    "group":"charts",
+    "task":"create chart",
+    "config":{
+        "column":"Sales Employee Name", #choose x_axis
+        "kind":"pie", #bar,barh,line,pie
+        "number":"5", #number of values to plot in the graph    
+        "size_x":"14", #size in x axis
+        "size_y":"6", #size in y axis
+        "top":"False" #from head or tail of values
+    }
+}

@@ -1,0 +1,25 @@
+{
+	"group" : "filter",
+	"task" : "filter",
+	"config" : {
+		"search" : {
+			"column" : "Sales Employee Name",
+			"keyword" : "sang",
+			"option" : "starts with", # ends with, contains, starts with  
+			"remove" : True
+		}
+		"choose" : "NA"
+	}
+}
+
+{
+	"group" : "filter",
+	"task" : "filter",
+	"config" : {
+		"search" : "NA"
+		"choose" : {
+			"column" : "SO Pending",
+			"selected" : ["SO Pending for AMC Renewal", "SO Pending for Rental Renewal", "SO Pending for Site not ready"]
+		}
+	}
+}
